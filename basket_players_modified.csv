@@ -1,1035 +1,1035 @@
-Name;Team;Position;Heigth;Weigth;Age
-Adam Donachie;BAL;Point Guard;78.27;171.00;32.989999999999995
-Paul Bako;BAL;Point Guard;78.27;204.25;44.69
-Ramon Hernandez;BAL;Point Guard;76.15;199.50;40.78
-Kevin Millar;BAL;Center;76.15;199.50;45.43
-Chris Gomez;BAL;Center;77.21;178.60;45.71
-Brian Roberts;BAL;Small Forward;72.98;167.20;39.39
-Miguel Tejada;BAL;Power Forward;72.98;198.55;40.769999999999996
-Melvin Mora;BAL;Small Forward;75.10;190.00;45.07
-Aubrey Huff;BAL;Small Forward;80.38;219.45;40.19
-Adam Stern;BAL;Shooting Guard;75.10;171.00;37.05
-Jeff Fiorentino;BAL;Shooting Guard;77.21;178.60;33.879999999999995
-Freddie Bynum;BAL;Shooting Guard;77.21;171.00;36.96
-Nick Markakis;BAL;Shooting Guard;78.27;175.75;33.29
-Brandon Fahey;BAL;Shooting Guard;78.27;152.00;36.11
-Corey Patterson;BAL;Shooting Guard;72.98;171.00;37.55
-Jay Payton;BAL;Shooting Guard;74.04;175.75;44.27
-Jay Gibbons;BAL;Small Forward;76.15;187.15;40.0
-Erik Bedard;BAL;Point Guard;77.21;179.55;37.989999999999995
-Hayden Penn;BAL;Point Guard;79.33;175.75;32.379999999999995
-Adam Loewen;BAL;Point Guard;82.50;208.05;32.89
-Daniel Cabrera;BAL;Point Guard;83.56;218.50;35.760000000000005
-Steve Trachsel;BAL;Point Guard;80.38;194.75;46.33
-Jaret Wright;BAL;Point Guard;78.27;218.50;41.17
-Kris Benson;BAL;Point Guard;80.38;185.25;42.31
-Scott Williamson;BAL;Center;76.15;171.00;41.03
-John Parrish;BAL;Center;75.10;182.40;39.260000000000005
-Danys Baez;BAL;Center;79.33;213.75;39.47
-Chad Bradford;BAL;Center;81.44;192.85;42.46
-Jamie Walker;BAL;Center;78.27;185.25;45.67
-Brian Burres;BAL;Center;77.21;172.90;35.89
-Kurt Birkins;BAL;Center;78.27;178.60;36.55
-James Hoey;BAL;Center;82.50;190.00;34.17
-Sendy Rleal;BAL;Center;77.21;171.00;36.69
-Chris Ray;BAL;Center;79.33;190.00;35.129999999999995
-Jeremy Guthrie;BAL;Center;77.21;190.00;37.9
-A.J. Pierzynski;CWS;Point Guard;79.33;232.75;40.17
-Toby Hall;CWS;Point Guard;79.33;228.00;41.36
-Paul Konerko;CWS;Center;78.27;204.25;40.989999999999995
-Tadahito Iguchi;CWS;Small Forward;72.98;175.75;42.24
-Juan Uribe;CWS;Power Forward;75.10;166.25;37.61
-Alex Cintron;CWS;Power Forward;78.27;189.05;38.2
-Joe Crede;CWS;Small Forward;77.21;190.00;38.85
-Josh Fields;CWS;Small Forward;77.21;204.25;34.21
-Ryan Sweeney;CWS;Shooting Guard;80.38;190.00;32.019999999999996
-Brian N. Anderson;CWS;Shooting Guard;78.27;194.75;34.97
-Luis Terrero;CWS;Shooting Guard;78.27;195.70;36.78
-Pablo Ozuna;CWS;Shooting Guard;74.04;176.70;42.51
-Scott Podsednik;CWS;Shooting Guard;76.15;178.60;40.95
-Jermaine Dye;CWS;Shooting Guard;81.44;209.00;43.09
-Darin Erstad;CWS;Shooting Guard;78.27;199.50;42.74
-Rob Mackowiak;CWS;Shooting Guard;74.04;185.25;40.69
-Jim Thome;CWS;Small Forward;80.38;231.80;46.51
-Jerry Owens;CWS;Small Forward;79.33;185.25;36.03
-Charlie Haeger;CWS;Point Guard;77.21;190.00;33.45
-Heath Phillips;CWS;Point Guard;79.33;190.00;34.94
-Gavin Floyd;CWS;Point Guard;80.38;201.40;34.09
-Jose Contreras;CWS;Point Guard;80.38;212.80;45.23
-Jon Garland;CWS;Point Guard;82.50;199.50;37.43
-Javier Vazquez;CWS;Point Guard;78.27;194.75;40.6
-Mark Buehrle;CWS;Point Guard;78.27;209.00;37.94
-Mike MacDougal;CWS;Center;80.38;185.25;39.989999999999995
-David Aardsma;CWS;Center;81.44;190.00;35.17
-Andrew Sisco;CWS;Center;85.67;247.00;34.129999999999995
-Matt Thornton;CWS;Center;82.50;216.60;40.46
-Bobby Jenks;CWS;Center;79.33;256.50;35.96
-Boone Logan;CWS;Center;81.44;190.00;32.55
-Sean Tracey;CWS;Center;79.33;199.50;36.29
-Nick Masset;CWS;Center;80.38;180.50;34.79
-Jose Molina;ANA;Point Guard;78.27;209.00;41.739999999999995
-Jeff Mathis;ANA;Point Guard;76.15;171.00;33.92
-Mike Napoli;ANA;Point Guard;76.15;194.75;35.33
-Casey Kotchman;ANA;Center;79.33;199.50;34.019999999999996
-Kendry Morales;ANA;Center;77.21;209.00;33.7
-Shea Hillenbrand;ANA;Center;77.21;200.45;41.59
-Robb Quinlan;ANA;Center;77.21;190.00;39.95
-Howie Kendrick;ANA;Center;74.04;171.00;33.64
-Orlando Cabrera;ANA;Power Forward;74.04;180.50;42.33
-Erick Aybar;ANA;Power Forward;74.04;161.50;33.129999999999995
-Dallas McPherson;ANA;Small Forward;80.38;218.50;36.6
-Maicer Izturis;ANA;Small Forward;71.92;147.25;36.46
-Reggie Willits;ANA;Shooting Guard;75.10;175.75;35.75
-Tommy Murphy;ANA;Shooting Guard;76.15;175.75;37.510000000000005
-Terry Evans;ANA;Shooting Guard;79.33;190.00;35.11
-Gary Matthews Jr.;ANA;Shooting Guard;79.33;213.75;42.51
-Garret Anderson;ANA;Shooting Guard;79.33;213.75;44.67
-Vladimir Guerrero;ANA;Shooting Guard;79.33;209.00;41.06
-Chone Figgins;ANA;Shooting Guard;71.92;152.00;39.1
-Juan Rivera;ANA;Shooting Guard;78.27;194.75;38.66
-John Lackey;ANA;Point Guard;82.50;223.25;38.35
-Bartolo Colon;ANA;Point Guard;75.10;237.50;43.77
-Kelvim Escobar;ANA;Point Guard;77.21;199.50;40.89
-Dustin Moseley;ANA;Point Guard;80.38;180.50;47.74
-Ervin Santana;ANA;Point Guard;78.27;152.00;34.14
-Joe Saunders;ANA;Point Guard;78.27;190.00;35.71
-Jered Weaver;ANA;Point Guard;83.56;194.75;34.41
-Chris Resop;ANA;Center;79.33;210.90;34.32
-Phil Seibel;ANA;Center;77.21;185.25;38.09
-Justin Speier;ANA;Center;80.38;194.75;43.31
-Darren Oliver;ANA;Center;78.27;209.00;46.4
-Hector Carrasco;ANA;Center;78.27;209.00;47.36
-Scot Shields;ANA;Center;77.21;161.50;41.61
-Francisco Rodriguez;ANA;Center;76.15;175.75;35.14
-Greg Jones;ANA;Center;78.27;185.25;40.29
-Doug Mirabelli;BOS;Point Guard;77.21;209.00;46.37
-Jason Varitek;BOS;Point Guard;78.27;218.50;44.89
-George Kottaras;BOS;Point Guard;76.15;171.00;33.79
-Kevin Youkilis;BOS;Center;77.21;209.00;37.96
-Dustin Pedroia;BOS;Small Forward;72.98;171.00;33.54
-Alex Cora;BOS;Power Forward;76.15;171.00;41.370000000000005
-Julio Lugo;BOS;Power Forward;77.21;161.50;41.29
-Mike Lowell;BOS;Small Forward;79.33;199.50;43.01
-Wily Mo Pe?a;BOS;Shooting Guard;79.33;204.25;35.1
-J.D. Drew;BOS;Shooting Guard;77.21;190.00;41.28
-Manny Ramirez;BOS;Shooting Guard;76.15;202.35;44.75
-Brandon Moss;BOS;Shooting Guard;76.15;171.00;33.46
-David Murphy;BOS;Shooting Guard;80.38;182.40;35.370000000000005
-Eric Hinske;BOS;Shooting Guard;78.27;223.25;39.57
-Coco Crisp;BOS;Shooting Guard;76.15;175.75;37.33
-David Ortiz;BOS;Small Forward;80.38;218.50;41.28
-Curt Schilling;BOS;Point Guard;81.44;223.25;50.29
-Tim Wakefield;BOS;Point Guard;78.27;199.50;50.58
-Josh Beckett;BOS;Point Guard;81.44;210.90;36.79
-Matt Clement;BOS;Point Guard;79.33;199.50;42.55
-Jonathan Papelbon;BOS;Point Guard;80.38;218.50;36.269999999999996
-Kyle Snyder;BOS;Point Guard;84.62;209.00;39.47
-Devern Hansack;BOS;Point Guard;78.27;171.00;39.07
-Jon Lester;BOS;Point Guard;78.27;180.50;33.15
-Kason Gabbard;BOS;Point Guard;79.33;190.00;34.9
-Craig Hansen;BOS;Center;82.50;199.50;33.29
-Hideki Okajima;BOS;Center;77.21;184.30;41.18
-Craig Breslow;BOS;Center;77.21;171.00;36.56
-Manny Delcarmen;BOS;Center;78.27;180.50;35.03
-Brendan Donnelly;BOS;Center;79.33;228.00;45.66
-Javier Lopez;BOS;Center;80.38;190.00;39.64
-J.C. Romero;BOS;Center;75.10;188.10;40.739999999999995
-Joel Pineiro;BOS;Center;77.21;190.00;38.43
-Julian Tavarez;BOS;Center;78.27;185.25;43.77
-Mike Timlin;BOS;Center;80.38;199.50;50.97
-Nick DeBarr;BOS;Center;80.38;209.00;33.519999999999996
-Victor Martinez;CLE;Point Guard;78.27;180.50;38.19
-Kelly Shoppach;CLE;Point Guard;77.21;199.50;36.84
-Ryan Garko;CLE;Center;78.27;213.75;36.16
-Joe Inglett;CLE;Small Forward;74.04;171.00;38.67
-Josh Barfield;CLE;Small Forward;76.15;175.75;34.2
-Hector Luna;CLE;Small Forward;77.21;161.50;37.08
-Jhonny Peralta;CLE;Power Forward;77.21;175.75;34.760000000000005
-Andy Marte;CLE;Small Forward;77.21;175.75;33.36
-Ben Francisco;CLE;Shooting Guard;77.21;171.00;35.35
-Shin-Soo Choo;CLE;Shooting Guard;75.10;169.10;34.629999999999995
-Franklin Gutierrez;CLE;Shooting Guard;78.27;166.25;34.019999999999996
-Grady Sizemore;CLE;Shooting Guard;78.27;190.00;34.58
-Jason Michaels;CLE;Shooting Guard;76.15;193.80;40.82
-Trot Nixon;CLE;Shooting Guard;78.27;200.45;42.89
-David Dellucci;CLE;Shooting Guard;75.10;180.50;43.33
-Casey Blake;CLE;Shooting Guard;78.27;199.50;43.52
-Travis Hafner;CLE;Small Forward;79.33;228.00;39.739999999999995
-Paul Byrd;CLE;Point Guard;77.21;180.50;46.24
-Cliff Lee;CLE;Point Guard;79.33;180.50;38.5
-Jake Westbrook;CLE;Point Guard;79.33;175.75;39.42
-C.C. Sabathia;CLE;Point Guard;83.56;275.50;36.61
-Jeremy Sowers;CLE;Point Guard;77.21;166.25;33.79
-Rafael Perez;CLE;Center;79.33;175.75;34.96
-Brian Slocum;CLE;Center;80.38;190.00;35.93
-Edward Mujica;CLE;Center;78.27;209.00;32.81
-Fernando Cabrera;CLE;Center;80.38;161.50;35.29
-Tom Mastny;CLE;Center;82.50;209.00;36.07
-Juan Lara;CLE;Center;78.27;180.50;36.09
-Fausto Carmona;CLE;Center;80.38;209.00;33.230000000000004
-Aaron Fultz;CLE;Center;76.15;194.75;43.49
-Rafael Betancourt;CLE;Center;78.27;190.00;41.84
-Roberto Hernandez;CLE;Center;80.38;237.50;52.3
-Joe Borowski;CLE;Center;78.27;213.75;45.82
-Matt Miller;CLE;Center;79.33;204.25;45.27
-Jason Davis;CLE;Center;82.50;199.50;36.81
-Mike Piazza;OAK;Point Guard;79.33;204.25;48.49
-Jason Kendall;OAK;Point Guard;76.15;185.25;42.68
-Adam Melhuse;OAK;Point Guard;78.27;190.00;44.93
-Nick Swisher;OAK;Center;76.15;184.30;36.260000000000005
-Dan Johnson;OAK;Center;78.27;209.00;37.56
-Donald Murphy;OAK;Small Forward;74.04;171.00;33.980000000000004
-Mark Ellis;OAK;Small Forward;75.10;171.00;39.730000000000004
-Marco Scutaro;OAK;Power Forward;74.04;161.50;41.33
-Bobby Crosby;OAK;Power Forward;79.33;185.25;37.129999999999995
-Mark Kiger;OAK;Power Forward;75.10;171.00;36.75
-Antonio Perez;OAK;Small Forward;75.10;161.50;37.09
-Eric Chavez;OAK;Small Forward;77.21;195.70;39.230000000000004
-Milton Bradley;OAK;Shooting Guard;76.15;194.75;38.879999999999995
-Shannon Stewart;OAK;Shooting Guard;75.10;190.00;43.01
-Bobby Kielty;OAK;Shooting Guard;77.21;213.75;40.57
-Mark Kotsay;OAK;Shooting Guard;76.15;190.95;41.239999999999995
-Ryan Goleski;OAK;Shooting Guard;79.33;213.75;34.95
-Jeremy Brown;OAK;Small Forward;74.04;214.70;37.35
-Jason Windsor;OAK;Point Guard;78.27;221.35;34.620000000000005
-David Shafer;OAK;Point Guard;78.27;171.00;34.980000000000004
-Joe Blanton;OAK;Point Guard;79.33;213.75;36.22
-Brad Halsey;OAK;Point Guard;77.21;171.00;36.04
-Dan Haren;OAK;Point Guard;81.44;209.00;36.45
-Rich Harden;OAK;Point Guard;77.21;171.00;35.25
-Joe Kennedy;OAK;Point Guard;80.38;225.15;37.769999999999996
-Esteban Loaiza;OAK;Point Guard;79.33;204.25;45.16
-Alan Embree;OAK;Center;78.27;180.50;47.1
-Jay Witasick;OAK;Center;80.38;223.25;44.51
-Justin Duchscherer;OAK;Center;79.33;180.50;39.28
-Kiko Calero;OAK;Center;77.21;171.00;42.14
-Chad Gaudin;OAK;Center;75.10;156.75;33.94
-Lenny DiNardo;OAK;Center;80.38;185.25;37.45
-Scott Dunn;OAK;Center;79.33;190.00;38.769999999999996
-Huston Street;OAK;Center;76.15;180.50;33.58
-Ron Flores;OAK;Center;75.10;180.50;37.56
-Jay Marshall;OAK;Center;81.44;175.75;34.010000000000005
-Marcus McBeth;OAK;Center;77.21;175.75;36.519999999999996
-Jorge Posada;NYY;Point Guard;78.27;194.75;45.54
-Wil Nieves;NYY;Point Guard;75.10;180.50;39.43
-Andy Phillips;NYY;Center;76.15;194.75;39.9
-Doug Mientkiewicz;NYY;Center;78.27;195.70;42.7
-Josh Phelps;NYY;Center;79.33;209.00;38.8
-Miguel Cairo;NYY;Small Forward;77.21;197.60;42.82
-Robinson Cano;NYY;Small Forward;76.15;161.50;34.36
-Derek Jeter;NYY;Power Forward;79.33;185.25;42.68
-Alex Rodriguez;NYY;Small Forward;79.33;199.50;41.59
-Johnny Damon;NYY;Shooting Guard;78.27;180.50;43.32
-Bobby Abreu;NYY;Shooting Guard;76.15;200.45;42.97
-Hideki Matsui;NYY;Shooting Guard;78.27;218.50;42.72
-Melky Cabrera;NYY;Shooting Guard;75.10;161.50;32.55
-Kevin Thompson;NYY;Shooting Guard;74.04;175.75;37.45
-Jason Giambi;NYY;Small Forward;79.33;218.50;46.14
-Mike Mussina;NYY;Point Guard;78.27;175.75;48.23
-Carl Pavano;NYY;Point Guard;81.44;228.95;41.14
-Andy Pettitte;NYY;Point Guard;81.44;213.75;44.71
-Darrell Rasner;NYY;Point Guard;79.33;199.50;36.129999999999995
-Jeff Karstens;NYY;Point Guard;79.33;166.25;34.43
-Humberto Sanchez;NYY;Point Guard;82.50;218.50;33.760000000000005
-Chien-Ming Wang;NYY;Point Guard;79.33;190.00;36.92
-Sean Henn;NYY;Center;80.38;204.25;35.85
-Scott Proctor;NYY;Center;77.21;188.10;40.16
-Brian Bruney;NYY;Center;79.33;214.70;35.03
-Chris Britton;NYY;Center;79.33;264.10;34.21
-T.J. Beam;NYY;Center;83.56;204.25;36.510000000000005
-Jose Veras;NYY;Center;81.44;218.50;36.36
-Kyle Farnsworth;NYY;Center;80.38;228.00;40.879999999999995
-Luis Vizcaino;NYY;Center;75.10;174.80;42.57
-Mike Myers;NYY;Center;79.33;208.05;47.68
-Mariano Rivera;NYY;Center;78.27;161.50;47.25
-Ivan Rodriguez;DET;Point Guard;72.98;207.10;45.25
-Vance Wilson;DET;Point Guard;75.10;180.50;43.95
-Sean Casey;DET;Center;80.38;213.75;42.66
-Chris Shelton;DET;Center;76.15;209.00;36.68
-Omar Infante;DET;Small Forward;76.15;167.20;35.18
-Placido Polanco;DET;Small Forward;74.04;180.50;41.39
-Neifi Perez;DET;Small Forward;76.15;187.15;43.74
-Carlos Guillen;DET;Power Forward;77.21;193.80;41.42
-Ramon Santiago;DET;Power Forward;75.10;158.65;37.5
-Tony Giarratano;DET;Power Forward;76.15;171.00;34.25
-Brandon Inge;DET;Small Forward;75.10;185.25;39.78
-Craig Monroe;DET;Shooting Guard;77.21;209.00;40.0
-Magglio Ordo?ez;DET;Shooting Guard;76.15;204.25;43.09
-Curtis Granderson;DET;Shooting Guard;77.21;175.75;35.96
-Brent Clevlen;DET;Shooting Guard;78.27;180.50;33.34
-Marcus Thames;DET;Shooting Guard;78.27;194.75;39.980000000000004
-Gary Sheffield;DET;Shooting Guard;76.15;194.75;48.28
-Mike Rabelo;DET;Small Forward;77.21;190.00;37.120000000000005
-Zach Miner;DET;Point Guard;79.33;190.00;34.97
-Jeremy Bonderman;DET;Point Guard;78.27;199.50;34.34
-Nate Robertson;DET;Point Guard;78.27;204.25;39.489999999999995
-Justin Verlander;DET;Point Guard;81.44;190.00;34.019999999999996
-Virgil Vasquez;DET;Point Guard;79.33;194.75;34.730000000000004
-Kenny Rogers;DET;Point Guard;77.21;200.45;52.3
-Mike Maroth;DET;Point Guard;76.15;180.50;39.54
-Fernando Rodney;DET;Center;75.10;197.60;39.95
-Chad Durbin;DET;Center;78.27;190.00;39.239999999999995
-Jason Grilli;DET;Center;81.44;199.50;40.3
-Jose Mesa;DET;Center;79.33;220.40;50.77
-Todd Jones;DET;Center;79.33;218.50;48.85
-Joel Zumaya;DET;Center;79.33;199.50;32.31
-Jordan Tata;DET;Center;82.50;209.00;35.44
-Andrew Miller;DET;Center;82.50;199.50;31.78
-Yorman Bazardo;DET;Center;78.27;191.90;32.64
-Wilfredo Ledezma;DET;Center;80.38;201.40;36.11
-Roman Colon;DET;Center;82.50;213.75;37.55
-Edward Campusano;DET;Center;80.38;161.50;34.629999999999995
-Rene Rivera;SEA;Point Guard;74.04;180.50;33.58
-Kenji Johjima;SEA;Point Guard;76.15;190.00;40.730000000000004
-Richie Sexson;SEA;Center;84.62;225.15;42.17
-Ben Broussard;SEA;Center;78.27;209.00;40.43
-Jose Lopez;SEA;Small Forward;78.27;161.50;33.269999999999996
-Jose Vidro;SEA;Small Forward;75.10;183.35;42.51
-Yuniesky Betancourt;SEA;Power Forward;74.04;180.50;35.08
-Oswaldo Navarro;SEA;Power Forward;76.15;142.50;32.41
-Adrian Beltre;SEA;Small Forward;75.10;209.00;37.9
-Raul Ibanez;SEA;Shooting Guard;78.27;190.00;44.74
-Jose Guillen;SEA;Shooting Guard;75.10;180.50;40.79
-Jeremy Reed;SEA;Shooting Guard;76.15;175.75;35.71
-Willie Bloomquist;SEA;Shooting Guard;75.10;175.75;39.260000000000005
-Adam Jones;SEA;Shooting Guard;78.27;190.00;31.58
-Ichiro Suzuki;SEA;Shooting Guard;72.98;163.40;43.36
-Mike Morse;SEA;Shooting Guard;80.38;209.00;34.94
-Felix Hernandez;SEA;Point Guard;79.33;213.75;30.9
-Ryan Feierabend;SEA;Point Guard;79.33;180.50;31.52
-Sean White;SEA;Point Guard;80.38;185.25;35.85
-Horacio Ramirez;SEA;Point Guard;77.21;208.05;37.269999999999996
-Cha Baek;SEA;Point Guard;80.38;180.50;36.75
-Miguel Batista;SEA;Point Guard;77.21;187.15;46.03
-Jeff Weaver;SEA;Point Guard;81.44;190.00;40.519999999999996
-Jarrod Washburn;SEA;Point Guard;77.21;185.25;42.55
-George Sherrill;SEA;Center;76.15;199.50;39.86
-Julio Mateo;SEA;Center;76.15;168.15;39.58
-J.J. Putz;SEA;Center;81.44;209.00;40.019999999999996
-Chris Reitsma;SEA;Center;81.44;223.25;39.16
-Cesar Jimenez;SEA;Center;75.10;171.00;32.3
-Eric O'Flaherty;SEA;Center;78.27;185.25;32.06
-Jon Huber;SEA;Center;78.27;185.25;35.65
-Jake Woods;SEA;Center;77.21;180.50;35.489999999999995
-Sean Green;SEA;Center;82.50;218.50;37.86
-Mark Lowe;SEA;Center;79.33;180.50;33.730000000000004
-Josh Paul;TB;Point Guard;77.21;190.00;41.78
-Dioner Navarro;TB;Point Guard;74.04;180.50;33.06
-Shawn Riggans;TB;Point Guard;78.27;180.50;36.6
-Ty Wigginton;TB;Center;76.15;190.00;39.39
-Brendan Harris;TB;Small Forward;77.21;190.00;36.510000000000005
-Jorge Cantu;TB;Small Forward;77.21;174.80;35.08
-Ben Zobrist;TB;Power Forward;79.33;190.00;35.760000000000005
-B.J. Upton;TB;Small Forward;79.33;171.00;32.519999999999996
-Carl Crawford;TB;Shooting Guard;78.27;208.05;35.57
-Rocco Baldelli;TB;Shooting Guard;80.38;177.65;35.43
-Greg Norton;TB;Shooting Guard;77.21;190.00;44.65
-Elijah Dukes;TB;Shooting Guard;78.27;209.00;32.68
-Delmon Young;TB;Shooting Guard;79.33;194.75;31.46
-Jonny Gomes;TB;Small Forward;77.21;194.75;36.269999999999996
-Edwin Jackson;TB;Point Guard;79.33;180.50;33.47
-Scott Kazmir;TB;Point Guard;76.15;161.50;33.1
-Casey Fossum;TB;Point Guard;77.21;152.00;39.14
-Jae Seo;TB;Point Guard;77.21;204.25;39.769999999999996
-J.P. Howell;TB;Point Guard;76.15;166.25;33.85
-Tim Corcoran;TB;Point Guard;78.27;194.75;38.879999999999995
-Jason Hammel;TB;Point Guard;82.50;190.00;34.489999999999995
-James Shields;TB;Point Guard;80.38;203.30;35.19
-Brian Stokes;TB;Point Guard;77.21;190.00;37.480000000000004
-Juan Salas;TB;Center;78.27;180.50;38.31
-Jeff Ridgway;TB;Center;79.33;171.00;36.54
-Ruddy Lugo;TB;Center;74.04;194.75;36.769999999999996
-Jae-Kuk Ryu;TB;Center;79.33;209.00;33.75
-Chad Orvella;TB;Center;75.10;180.50;36.41
-Dan Miceli;TB;Center;76.15;204.25;46.47
-Seth McClung;TB;Center;82.50;223.25;36.06
-Jon Switzer;TB;Center;79.33;181.45;37.55
-Shawn Camp;TB;Center;77.21;190.00;41.28
-Scott Dohmann;TB;Center;77.21;171.95;39.04
-Jason LaRue;KC;Point Guard;75.10;190.00;42.95
-John Buck;KC;Point Guard;79.33;199.50;36.65
-Ryan Shealy;KC;Center;81.44;228.00;37.5
-Ross Gload;KC;Center;76.15;175.75;40.9
-Esteban German;KC;Small Forward;72.98;156.75;39.09
-Mark Grudzielanek;KC;Small Forward;77.21;180.50;46.67
-Angel Sanchez;KC;Small Forward;78.27;175.75;33.44
-Angel Berroa;KC;Power Forward;76.15;166.25;39.09
-Andres Blanco;KC;Power Forward;74.04;147.25;32.89
-Mark Teahen;KC;Small Forward;79.33;199.50;35.480000000000004
-Joey Gathright;KC;Shooting Guard;74.04;161.50;35.84
-David DeJesus;KC;Shooting Guard;76.15;166.25;37.2
-Shane Costa;KC;Shooting Guard;76.15;209.00;35.22
-Mitch Maier;KC;Shooting Guard;78.27;199.50;34.67
-Reggie Sanders;KC;Shooting Guard;77.21;194.75;49.25
-Emil Brown;KC;Shooting Guard;78.27;190.00;42.17
-Mike Sweeney;KC;Small Forward;79.33;213.75;43.61
-John Bale;KC;Point Guard;80.38;194.75;42.77
-Luke Hudson;KC;Point Guard;79.33;185.25;39.83
-Scott Elarton;KC;Point Guard;84.62;228.00;41.019999999999996
-Odalis Perez;KC;Point Guard;76.15;142.50;39.730000000000004
-Gil Meche;KC;Point Guard;79.33;190.00;38.480000000000004
-Neal Musser;KC;Point Guard;77.21;204.25;36.510000000000005
-Brian Bannister;KC;Point Guard;78.27;191.90;36.0
-Zack Greinke;KC;Point Guard;78.27;190.00;33.36
-Jorge De La Rosa;KC;Point Guard;77.21;180.50;35.9
-Todd Wellemeyer;KC;Center;79.33;194.75;38.5
-Jimmy Gobble;KC;Center;79.33;180.50;35.620000000000005
-Joel Peralta;KC;Center;75.10;152.00;40.94
-Ryan Braun;KC;Center;77.21;204.25;36.59
-Joakim Soria;KC;Center;79.33;175.75;32.78
-Ken Ray;KC;Center;78.27;190.00;42.26
-David Riske;KC;Center;78.27;180.50;40.35
-Octavio Dotel;KC;Center;76.15;199.50;43.26
-Joe Nelson;KC;Center;78.27;175.75;42.35
-Gerald Laird;TEX;Point Guard;78.27;209.00;37.3
-Miguel Ojeda;TEX;Point Guard;78.27;180.50;42.08
-Guillermo Quiroz;TEX;Point Guard;77.21;191.90;35.25
-Chris Stewart;TEX;Point Guard;80.38;194.75;35.03
-Mark Teixeira;TEX;Center;79.33;209.00;36.89
-Ian Kinsler;TEX;Small Forward;76.15;166.25;34.69
-Joaquin Arias;TEX;Power Forward;77.21;152.00;32.44
-Michael Young;TEX;Power Forward;77.21;180.50;40.36
-Hank Blalock;TEX;Small Forward;77.21;190.00;36.269999999999996
-Marlon Byrd;TEX;Shooting Guard;76.15;217.55;39.5
-Brad Wilkerson;TEX;Shooting Guard;76.15;195.70;39.75
-Sammy Sosa;TEX;Shooting Guard;76.15;209.00;48.3
-Kenny Lofton;TEX;Shooting Guard;76.15;171.00;49.75
-Frank Catalanotto;TEX;Shooting Guard;75.10;185.25;42.84
-Nelson Cruz;TEX;Shooting Guard;79.33;166.25;36.66
-Jason Botts;TEX;Small Forward;81.44;237.50;36.6
-Robinson Tejeda;TEX;Point Guard;79.33;178.60;34.94
-John Rheinecker;TEX;Point Guard;78.27;218.50;37.760000000000005
-Edinson Volquez;TEX;Point Guard;77.21;180.50;33.66
-A.J. Murray;TEX;Point Guard;79.33;190.00;34.96
-Brandon McCarthy;TEX;Point Guard;83.56;180.50;33.65
-Vicente Padilla;TEX;Point Guard;78.27;208.05;39.42
-Kevin Millwood;TEX;Point Guard;80.38;223.25;42.18
-John Koronka;TEX;Point Guard;77.21;171.00;36.66
-Frank Francisco;TEX;Center;78.27;171.00;37.47
-Francisco Cruceta;TEX;Center;78.27;171.00;35.66
-Akinori Otsuka;TEX;Center;76.15;190.00;45.13
-Eric Gagne;TEX;Center;78.27;222.30;41.15
-Ron Mahay;TEX;Center;78.27;175.75;45.67
-Joaquin Benoit;TEX;Center;79.33;209.00;39.6
-Rick Bauer;TEX;Center;82.50;211.85;40.14
-Josh Rupe;TEX;Center;78.27;190.00;34.53
-Wes Littleton;TEX;Center;78.27;199.50;34.489999999999995
-C.J. Wilson;TEX;Center;78.27;190.00;36.28
-Scott Feldman;TEX;Center;81.44;199.50;34.06
-Gregg Zaun;TOR;Point Guard;74.04;180.50;45.88
-Jason Phillips;TOR;Point Guard;77.21;168.15;40.42
-Lyle Overbay;TOR;Center;78.27;215.65;40.09
-Russ Adams;TOR;Small Forward;77.21;171.00;36.5
-Aaron Hill;TOR;Small Forward;75.10;185.25;34.94
-Jason Smith;TOR;Small Forward;79.33;189.05;39.6
-John McDonald;TOR;Power Forward;75.10;166.25;42.43
-Royce Clayton;TOR;Power Forward;76.15;175.75;47.16
-Troy Glaus;TOR;Small Forward;81.44;228.00;40.57
-John Hattig;TOR;Small Forward;78.27;199.50;37.010000000000005
-Reed Johnson;TOR;Shooting Guard;74.04;171.00;40.230000000000004
-Alex Rios;TOR;Shooting Guard;81.44;184.30;36.03
-Vernon Wells;TOR;Shooting Guard;77.21;213.75;38.230000000000004
-Frank Thomas;TOR;Small Forward;81.44;261.25;48.76
-Adam Lind;TOR;Small Forward;78.27;185.25;33.620000000000005
-Shaun Marcum;TOR;Point Guard;76.15;171.00;35.21
-Casey Janssen;TOR;Point Guard;80.38;194.75;35.45
-Gustavo Chacin;TOR;Point Guard;75.10;183.35;36.239999999999995
-A.J. Burnett;TOR;Point Guard;80.38;218.50;40.15
-Roy Halladay;TOR;Point Guard;82.50;218.50;39.8
-John Thomson;TOR;Point Guard;79.33;209.00;43.41
-Tomo Ohka;TOR;Point Guard;77.21;190.00;40.95
-B.J. Ryan;TOR;Center;82.50;236.55;41.17
-Scott Downs;TOR;Center;78.27;180.50;40.95
-Brian Tallet;TOR;Center;83.56;197.60;39.44
-Matt Roney;TOR;Center;79.33;232.75;37.14
-Tracy Thorpe;TOR;Center;80.38;237.50;36.21
-Jean Machi;TOR;Center;76.15;152.00;34.08
-Brandon League;TOR;Center;79.33;182.40;33.96
-Dustin McGowan;TOR;Center;79.33;209.00;34.94
-Jason Frasor;TOR;Center;74.04;161.50;39.56
-Francisco Rosario;TOR;Center;76.15;187.15;36.42
-Davis Romero;TOR;Center;74.04;147.25;33.92
-Jeremy Accardo;TOR;Center;78.27;180.50;35.230000000000004
-Mike Redmond;MIN;Point Guard;75.10;190.00;45.82
-Joe Mauer;MIN;Point Guard;80.38;209.00;33.870000000000005
-Chris Heintz;MIN;Point Guard;77.21;199.50;42.57
-Justin Morneau;MIN;Center;80.38;216.60;35.79
-Luis Castillo;MIN;Small Forward;75.10;180.50;41.47
-Alexi Casilla;MIN;Small Forward;72.98;152.00;32.61
-Alejandro Machado;MIN;Small Forward;76.15;174.80;34.85
-Jason Bartlett;MIN;Power Forward;76.15;171.00;37.33
-Luis Rodriguez;MIN;Small Forward;72.98;171.00;36.67
-Jeff Cirillo;MIN;Small Forward;77.21;190.00;47.43
-Nick Punto;MIN;Small Forward;72.98;167.20;39.31
-Jason Tyner;MIN;Shooting Guard;77.21;152.00;39.85
-Michael Cuddyer;MIN;Shooting Guard;78.27;210.90;37.93
-Torii Hunter;MIN;Shooting Guard;78.27;200.45;41.620000000000005
-Lew Ford;MIN;Shooting Guard;76.15;185.25;40.55
-Jason Kubel;MIN;Shooting Guard;75.10;190.00;34.769999999999996
-Josh Rabe;MIN;Small Forward;78.27;199.50;38.379999999999995
-Rondell White;MIN;Small Forward;77.21;213.75;45.02
-Ramon Ortiz;MIN;Point Guard;76.15;166.25;43.77
-Johan Santana;MIN;Point Guard;76.15;195.70;37.97
-Carlos Silva;MIN;Point Guard;80.38;228.00;37.85
-Matt Garza;MIN;Point Guard;80.38;175.75;33.260000000000005
-Boof Bonser;MIN;Point Guard;80.38;247.00;35.379999999999995
-Francisco Liriano;MIN;Point Guard;78.27;175.75;33.35
-Scott Baker;MIN;Point Guard;80.38;209.95;35.45
-Pat Neshek;MIN;Center;79.33;194.75;36.489999999999995
-Glen Perkins;MIN;Center;75.10;190.00;34.0
-Julio DePaula;MIN;Center;76.15;161.50;34.16
-Juan Rincon;MIN;Center;75.10;190.95;38.1
-Jesse Crain;MIN;Center;77.21;194.75;35.65
-Matt Guerrier;MIN;Center;79.33;175.75;38.58
-Joe Nathan;MIN;Center;80.38;194.75;42.27
-Dennys Reyes;MIN;Center;79.33;232.75;39.86
-Brayan Pe?a;ATL;Point Guard;75.10;209.00;35.14
-Brian McCann;ATL;Point Guard;79.33;199.50;33.03
-Craig Wilson;ATL;Center;78.27;209.00;40.25
-Chris Woodward;ATL;Small Forward;76.15;175.75;40.67
-Pete Orr;ATL;Small Forward;77.21;166.25;37.730000000000004
-Martin Prado;ATL;Small Forward;77.21;161.50;33.34
-Tony Pe?a;ATL;Power Forward;77.21;171.00;35.94
-Edgar Renteria;ATL;Power Forward;77.21;190.00;41.56
-Chipper Jones;ATL;Small Forward;80.38;199.50;44.85
-Willy Aybar;ATL;Small Forward;76.15;166.25;33.980000000000004
-Jeff Francoeur;ATL;Shooting Guard;80.38;209.00;33.14
-Matt Diaz;ATL;Shooting Guard;77.21;195.70;38.989999999999995
-Kelly Johnson;ATL;Shooting Guard;77.21;171.00;35.019999999999996
-Andruw Jones;ATL;Shooting Guard;77.21;199.50;39.85
-Ryan Langerhans;ATL;Shooting Guard;79.33;185.25;37.03
-Scott Thorman;ATL;Shooting Guard;79.33;190.00;35.15
-T.J. Bohn;ATL;Shooting Guard;81.44;190.00;37.120000000000005
-Tim Hudson;ATL;Point Guard;77.21;155.80;41.629999999999995
-Jonathan Johnson;ATL;Point Guard;76.15;171.00;42.62
-John Smoltz;ATL;Point Guard;79.33;209.00;49.79
-Mike Hampton;ATL;Point Guard;74.04;185.25;44.47
-Kyle Davies;ATL;Point Guard;78.27;194.75;33.47
-Chuck James;ATL;Point Guard;76.15;161.50;35.31
-Phil Stockman;ATL;Center;84.62;228.00;37.1
-Macay McBride;ATL;Center;75.10;199.50;34.35
-Joey Devine;ATL;Center;75.10;185.25;33.45
-Peter Moylan;ATL;Center;78.27;190.00;38.239999999999995
-Mike Gonzalez;ATL;Center;78.27;194.75;38.769999999999996
-Lance Cormier;ATL;Center;77.21;182.40;36.53
-Blaine Boyer;ATL;Center;79.33;180.50;35.64
-Manny Acosta;ATL;Center;80.38;161.50;35.83
-Bob Wickman;ATL;Center;77.21;228.00;48.06
-Tanyon Sturtze;ATL;Center;81.44;190.00;46.38
-Oscar Villarreal;ATL;Center;76.15;194.75;35.269999999999996
-Rafael Soriano;ATL;Center;77.21;166.25;37.2
-Chad Paronto;ATL;Center;81.44;237.50;41.59
-Tyler Yates;ATL;Center;80.38;209.00;39.56
-Henry Blanco;CHC;Point Guard;75.10;212.80;45.5
-Michael Barrett;CHC;Point Guard;79.33;199.50;40.35
-Geovany Soto;CHC;Point Guard;77.21;185.25;34.11
-Scott Moore;CHC;Center;78.27;171.00;33.29
-Derrek Lee;CHC;Center;81.44;232.75;41.480000000000004
-Ryan Theriot;CHC;Small Forward;75.10;166.25;37.230000000000004
-Ronny Cedeno;CHC;Power Forward;76.15;171.00;34.07
-Aramis Ramirez;CHC;Small Forward;77.21;204.25;38.68
-Cesar Izturis;CHC;Small Forward;72.98;166.25;37.05
-Alfonso Soriano;CHC;Shooting Guard;77.21;171.00;41.15
-Jacque Jones;CHC;Shooting Guard;74.04;185.25;41.85
-Daryle Ward;CHC;Shooting Guard;78.27;218.50;41.68
-Cliff Floyd;CHC;Shooting Guard;80.38;218.50;44.23
-Mark DeRosa;CHC;Shooting Guard;77.21;194.75;42.01
-Matt Murton;CHC;Shooting Guard;77.21;204.25;35.41
-Buck Coats;CHC;Shooting Guard;79.33;185.25;34.730000000000004
-Angel Pagan;CHC;Shooting Guard;77.21;171.00;35.66
-Sean Marshall;CHC;Point Guard;83.56;194.75;34.5
-Carlos Marmol;CHC;Point Guard;78.27;171.00;34.379999999999995
-Ryan O'Malley;CHC;Point Guard;77.21;180.50;36.89
-Juan Mateo;CHC;Point Guard;78.27;171.00;34.2
-Rich Hill;CHC;Point Guard;81.44;180.50;36.97
-Angel Guzman;CHC;Point Guard;79.33;180.50;35.21
-Wade Miller;CHC;Point Guard;78.27;209.00;40.46
-Jason Marquis;CHC;Point Guard;77.21;199.50;38.53
-Carlos Zambrano;CHC;Point Guard;81.44;242.25;35.75
-Ted Lilly;CHC;Point Guard;77.21;180.50;41.15
-Mark Prior;CHC;Point Guard;81.44;218.50;36.480000000000004
-Neal Cotts;CHC;Center;78.27;190.00;36.93
-Will Ohman;CHC;Center;78.27;194.75;39.55
-Scott Eyre;CHC;Center;77.21;199.50;44.75
-Kerry Wood;CHC;Center;81.44;213.75;39.71
-Ryan Dempster;CHC;Center;78.27;204.25;39.83
-Bob Howry;CHC;Center;81.44;209.00;43.57
-Mike Wuertz;CHC;Center;79.33;194.75;38.21
-Roberto Novoa;CHC;Center;81.44;190.00;37.54
-Chris Snyder;ARZ;Point Guard;79.33;209.00;36.05
-Miguel Montero;ARZ;Point Guard;75.10;187.15;33.64
-Conor Jackson;ARZ;Center;78.27;213.75;34.82
-Robby Hammock;ARZ;Center;74.04;177.65;39.8
-Tony Clark;ARZ;Center;83.56;232.75;44.71
-Orlando Hudson;ARZ;Small Forward;76.15;175.75;39.22
-Stephen Drew;ARZ;Power Forward;76.15;175.75;33.96
-Alberto Callaspo;ARZ;Power Forward;74.04;166.25;33.870000000000005
-Chad Tracy;ARZ;Small Forward;78.27;190.00;36.769999999999996
-Chris Young;ARZ;Shooting Guard;78.27;171.00;33.489999999999995
-Scott Hairston;ARZ;Shooting Guard;76.15;178.60;36.769999999999996
-Carlos Quentin;ARZ;Shooting Guard;77.21;213.75;34.510000000000005
-Jeff DaVanon;ARZ;Shooting Guard;76.15;190.00;43.23
-Eric Byrnes;ARZ;Shooting Guard;78.27;199.50;41.04
-Livan Hernandez;ARZ;Point Guard;78.27;232.75;42.02
-Doug Davis;ARZ;Point Guard;80.38;202.35;41.44
-Randy Johnson;ARZ;Point Guard;86.73;219.45;53.47
-Juan Cruz;ARZ;Point Guard;78.27;156.75;38.379999999999995
-Brandon Webb;ARZ;Point Guard;78.27;216.60;37.81
-Enrique Gonzalez;ARZ;Point Guard;74.04;199.50;34.57
-Dana Eveland;ARZ;Point Guard;77.21;237.50;33.34
-Brandon Medders;ARZ;Center;77.21;181.45;37.09
-Tony Pe?a;ARZ;Center;78.27;180.50;35.14
-Doug Slaten;ARZ;Center;81.44;190.00;37.07
-Edgar Gonzalez;ARZ;Center;76.15;204.25;34.019999999999996
-Jose Valverde;ARZ;Center;80.38;241.30;37.6
-Jorge Julio;ARZ;Center;77.21;220.40;37.989999999999995
-Brandon Lyon;ARZ;Center;77.21;171.00;37.56
-Miguel Olivo;FLA;Point Guard;76.15;204.25;38.629999999999995
-Matt Treanor;FLA;Point Guard;78.27;209.00;40.989999999999995
-Mike Jacobs;FLA;Center;78.27;171.00;36.33
-Dan Uggla;FLA;Small Forward;75.10;190.00;36.97
-Robert Andino;FLA;Power Forward;76.15;161.50;32.85
-Hanley Ramirez;FLA;Power Forward;79.33;185.25;33.19
-Miguel Cabrera;FLA;Small Forward;78.27;199.50;33.870000000000005
-Aaron Boone;FLA;Small Forward;78.27;190.00;43.98
-Joe Borchard;FLA;Shooting Guard;81.44;209.00;38.260000000000005
-Alfredo Amezaga;FLA;Shooting Guard;74.04;156.75;39.120000000000005
-Cody Ross;FLA;Shooting Guard;75.10;171.00;36.18
-Josh Willingham;FLA;Shooting Guard;77.21;190.00;38.03
-Jeremy Hermida;FLA;Shooting Guard;80.38;190.00;33.08
-Eric Reed;FLA;Shooting Guard;75.10;161.50;36.239999999999995
-Reggi Abercrombie;FLA;Shooting Guard;79.33;212.80;36.629999999999995
-Ricky Nolasco;FLA;Point Guard;78.27;209.00;34.21
-Anibal Sanchez;FLA;Point Guard;76.15;171.00;33.010000000000005
-Scott Olsen;FLA;Point Guard;80.38;188.10;33.129999999999995
-Josh Johnson;FLA;Point Guard;83.56;228.00;33.08
-Dontrelle Willis;FLA;Point Guard;80.38;227.05;35.129999999999995
-Logan Kensing;FLA;Center;77.21;175.75;34.66
-Sergio Mitre;FLA;Center;80.38;199.50;36.03
-Kevin Gregg;FLA;Center;82.50;209.00;38.7
-Travis Bowyer;FLA;Center;79.33;190.00;35.57
-Renyel Pinto;FLA;Center;80.38;185.25;34.65
-Randy Messenger;FLA;Center;76.15;209.00;35.55
-Yusmeiro Petit;FLA;Center;76.15;218.50;32.269999999999996
-Carlos Martinez;FLA;Center;77.21;161.50;34.760000000000005
-Taylor Tankersley;FLA;Center;77.21;209.00;33.980000000000004
-Henry Owens;FLA;Center;79.33;218.50;37.85
-Jose Garcia;FLA;Center;75.10;156.75;32.14
-Matt Lindstrom;FLA;Center;80.38;194.75;37.05
-Javier Valentin;CIN;Point Guard;74.04;182.40;41.45
-Chad Moeller;CIN;Point Guard;79.33;199.50;42.03
-David Ross;CIN;Point Guard;78.27;194.75;39.95
-Joey Votto;CIN;Center;79.33;190.00;33.47
-Scott Hatteberg;CIN;Center;77.21;199.50;47.21
-Brandon Phillips;CIN;Small Forward;75.10;175.75;35.67
-Juan Castro;CIN;Power Forward;75.10;185.25;44.69
-Alex Gonzalez;CIN;Power Forward;76.15;191.90;40.04
-Mark Bellhorn;CIN;Small Forward;77.21;194.75;42.52
-Edwin Encarnacion;CIN;Small Forward;77.21;185.25;34.15
-Jeff Keppinger;CIN;Small Forward;76.15;171.00;36.86
-Norris Hopper;CIN;Shooting Guard;72.98;190.00;37.94
-Chris Denorfia;CIN;Shooting Guard;77.21;175.75;36.629999999999995
-Adam Dunn;CIN;Shooting Guard;82.50;228.00;37.31
-Bubba Crosby;CIN;Shooting Guard;75.10;175.75;40.55
-Jeff Conine;CIN;Shooting Guard;77.21;209.00;50.68
-Ken Griffey Jr.;CIN;Shooting Guard;79.33;194.75;47.27
-Josh Hamilton;CIN;Shooting Guard;80.38;194.75;35.78
-Ryan Freel;CIN;Shooting Guard;74.04;171.00;40.980000000000004
-Kyle Lohse;CIN;Point Guard;78.27;190.95;38.41
-Bronson Arroyo;CIN;Point Guard;81.44;180.50;40.010000000000005
-Eric Milton;CIN;Point Guard;79.33;197.60;41.57
-Aaron Harang;CIN;Point Guard;83.56;228.00;38.81
-Kirk Saarloos;CIN;Point Guard;76.15;209.00;37.769999999999996
-Elizardo Ramirez;CIN;Point Guard;76.15;171.00;34.09
-Todd Coffey;CIN;Center;81.44;218.50;36.47
-Brian Shackelford;CIN;Center;77.21;185.25;40.5
-Bill Bray;CIN;Center;79.33;204.25;33.739999999999995
-Bobby Livingston;CIN;Center;79.33;180.50;34.489999999999995
-Matt Belisle;CIN;Center;79.33;185.25;36.730000000000004
-Gary Majewski;CIN;Center;77.21;204.25;37.010000000000005
-Mike Stanton;CIN;Center;77.21;204.25;49.75
-Brad Salmon;CIN;Center;80.38;209.00;37.16
-Jared Burton;CIN;Center;81.44;209.00;35.739999999999995
-David Weathers;CIN;Center;79.33;218.50;47.43
-Rheal Cormier;CIN;Center;74.04;185.25;49.85
-Yorvit Torrealba;COL;Point Guard;75.10;180.50;38.620000000000005
-Chris Iannetta;COL;Point Guard;75.10;185.25;33.9
-Alvin Colina;COL;Point Guard;79.33;198.55;35.18
-Todd Helton;COL;Center;78.27;193.80;43.53
-Jamey Carroll;COL;Small Forward;72.98;161.50;43.03
-Kaz Matsui;COL;Small Forward;74.04;175.75;41.35
-Troy Tulowitzki;COL;Power Forward;79.33;194.75;32.39
-Clint Barmes;COL;Power Forward;76.15;166.25;37.989999999999995
-Garrett Atkins;COL;Small Forward;79.33;199.50;37.22
-Ryan Spilborghs;COL;Shooting Guard;77.21;180.50;37.489999999999995
-Cory Sullivan;COL;Shooting Guard;76.15;171.00;37.53
-Jeff Salazar;COL;Shooting Guard;76.15;171.00;36.260000000000005
-Willy Taveras;COL;Shooting Guard;76.15;152.00;35.18
-Matt Holliday;COL;Shooting Guard;80.38;223.25;37.120000000000005
-Brad Hawpe;COL;Shooting Guard;79.33;190.00;37.69
-Jeff Baker;COL;Shooting Guard;78.27;199.50;35.69
-Javy Lopez;COL;Small Forward;79.33;212.80;46.32
-Byung-Hyun Kim;COL;Point Guard;72.98;171.00;38.11
-Rodrigo Lopez;COL;Point Guard;77.21;180.50;41.21
-Brian Lawrence;COL;Point Guard;76.15;187.15;40.8
-Josh Fogg;COL;Point Guard;76.15;192.85;40.21
-Aaron Cook;COL;Point Guard;79.33;194.75;38.06
-Denny Bautista;COL;Point Guard;81.44;161.50;36.519999999999996
-Ubaldo Jimenez;COL;Point Guard;80.38;190.00;33.1
-Jason Hirsh;COL;Point Guard;84.62;237.50;35.019999999999996
-Jeff Francis;COL;Point Guard;81.44;190.00;36.14
-Taylor Buchholz;COL;Point Guard;80.38;209.00;35.379999999999995
-Ryan Speier;COL;Center;83.56;190.00;37.6
-Ramon Ramirez;COL;Center;75.10;180.50;35.5
-Manny Corpas;COL;Center;79.33;161.50;34.239999999999995
-Juan Morillo;COL;Center;77.21;180.50;33.32
-Brian Fuentes;COL;Center;80.38;209.00;41.56
-LaTroy Hawkins;COL;Center;81.44;204.25;44.19
-Tom Martin;COL;Center;77.21;195.70;46.78
-Jeremy Affeldt;COL;Center;80.38;204.25;37.730000000000004
-Paul Lo Duca;NYM;Point Guard;74.04;175.75;44.88
-Ramon Castro;NYM;Point Guard;79.33;223.25;41.0
-Julio Franco;NYM;Center;77.21;178.60;58.52
-Carlos Delgado;NYM;Center;79.33;218.50;44.68
-Jose Valentin;NYM;Small Forward;74.04;185.25;47.38
-Anderson Hernandez;NYM;Small Forward;72.98;159.60;34.33
-Damion Easley;NYM;Power Forward;75.10;180.50;47.3
-Jose Reyes;NYM;Power Forward;76.15;152.00;33.72
-David Wright;NYM;Small Forward;76.15;190.00;34.19
-Ben Johnson;NYM;Shooting Guard;77.21;190.00;35.7
-Endy Chavez;NYM;Shooting Guard;74.04;179.55;39.06
-David Newhan;NYM;Shooting Guard;74.04;171.00;43.48
-Carlos Beltran;NYM;Shooting Guard;77.21;180.50;39.85
-Shawn Green;NYM;Shooting Guard;80.38;190.00;44.3
-Moises Alou;NYM;Shooting Guard;79.33;209.00;50.66
-Lastings Milledge;NYM;Shooting Guard;76.15;177.65;31.9
-Alay Soler;NYM;Point Guard;77.21;228.00;37.39
-Mike Pelfrey;NYM;Point Guard;83.56;180.50;33.129999999999995
-Pedro Martinez;NYM;Point Guard;75.10;171.00;45.35
-Tom Glavine;NYM;Point Guard;76.15;175.75;50.93
-Chan Ho Park;NYM;Point Guard;78.27;199.50;43.67
-Orlando Hernandez;NYM;Point Guard;78.27;209.00;47.39
-Dave Williams;NYM;Point Guard;78.27;208.05;37.97
-Oliver Perez;NYM;Point Guard;76.15;180.50;35.54
-John Maine;NYM;Point Guard;80.38;183.35;35.81
-Marcos Carvajal;NYM;Center;80.38;166.25;32.53
-Ambiorix Burgos;NYM;Center;76.15;171.00;32.86
-Jason Vargas;NYM;Center;76.15;204.25;34.07
-Jon Adkins;NYM;Center;75.10;199.50;39.5
-Juan Padilla;NYM;Center;76.15;190.00;40.03
-Duaner Sanchez;NYM;Center;76.15;180.50;37.379999999999995
-Pedro Feliciano;NYM;Center;74.04;175.75;40.510000000000005
-Aaron Heilman;NYM;Center;81.44;209.00;38.3
-Jorge Sosa;NYM;Center;78.27;161.50;39.84
-Scott Schoeneweis;NYM;Center;76.15;185.25;43.41
-Guillermo Mota;NYM;Center;80.38;194.75;43.6
-Billy Wagner;NYM;Center;75.10;185.25;45.6
-Philip Humber;NYM;Center;80.38;199.50;34.19
-Brad Ausmus;HOU;Point Guard;75.10;180.50;47.88
-Humberto Quintero;HOU;Point Guard;77.21;180.50;37.56
-Hector Gimenez;HOU;Point Guard;74.04;171.00;34.42
-Lance Berkman;HOU;Center;77.21;209.00;41.05
-Mike Lamb;HOU;Center;77.21;180.50;41.56
-Mark Loretta;HOU;Small Forward;76.15;176.70;45.55
-Craig Biggio;HOU;Small Forward;75.10;175.75;51.21
-Brooks Conrad;HOU;Small Forward;75.10;180.50;37.120000000000005
-Chris Burke;HOU;Small Forward;75.10;171.00;36.97
-Eric Bruntlett;HOU;Small Forward;76.15;180.50;38.92
-Adam Everett;HOU;Power Forward;76.15;161.50;40.06
-Morgan Ensberg;HOU;Small Forward;78.27;199.50;41.510000000000005
-Carlos Lee;HOU;Shooting Guard;78.27;228.00;40.69
-Jason Lane;HOU;Shooting Guard;78.27;209.00;40.19
-Orlando Palmeiro;HOU;Shooting Guard;75.10;171.00;48.11
-Luke Scott;HOU;Shooting Guard;76.15;199.50;38.68
-Charlton Jimerson;HOU;Shooting Guard;79.33;199.50;37.44
-Fernando Nieve;HOU;Point Guard;76.15;185.25;34.629999999999995
-Wandy Rodriguez;HOU;Point Guard;75.10;152.00;38.11
-Brandon Backe;HOU;Point Guard;76.15;171.00;38.9
-Matt Albers;HOU;Point Guard;76.15;194.75;34.11
-Woody Williams;HOU;Point Guard;76.15;190.00;50.53
-Roy Oswalt;HOU;Point Guard;76.15;175.75;39.5
-Jason Jennings;HOU;Point Guard;78.27;232.75;38.620000000000005
-Miguel Asencio;HOU;Center;78.27;180.50;36.42
-Brad Lidge;HOU;Center;81.44;199.50;40.18
-Trever Miller;HOU;Center;79.33;190.00;43.75
-David Borkowski;HOU;Center;77.21;190.00;40.06
-Dan Wheeler;HOU;Center;79.33;210.90;39.22
-Paul Estrada;HOU;Center;77.21;204.25;34.47
-Lincoln Holdzkom;HOU;Center;80.38;228.00;34.94
-Chris Sampson;HOU;Center;76.15;161.50;38.769999999999996
-Chad Qualls;HOU;Center;81.44;209.00;38.54
-Ezequiel Astacio;HOU;Center;79.33;148.20;37.32
-Mike Lieberthal;LA;Point Guard;76.15;180.50;45.12
-Russell Martin;LA;Point Guard;75.10;191.90;34.04
-Olmedo Saenz;LA;Center;75.10;209.95;46.39
-James Loney;LA;Center;79.33;190.00;32.81
-Nomar Garciaparra;LA;Center;76.15;180.50;43.6
-Jeff Kent;LA;Small Forward;77.21;199.50;48.98
-Ramon Martinez;LA;Small Forward;77.21;180.50;44.39
-Marlon Anderson;LA;Small Forward;75.10;190.00;43.15
-Rafael Furcal;LA;Power Forward;74.04;156.75;39.35
-Wilson Betemit;LA;Small Forward;79.33;180.50;36.59
-Andy LaRoche;LA;Small Forward;75.10;175.75;33.46
-Matt Kemp;LA;Shooting Guard;80.38;218.50;32.43
-Andre Ethier;LA;Shooting Guard;77.21;197.60;34.89
-Delwyn Young;LA;Shooting Guard;71.92;198.55;34.67
-Jason Repko;LA;Shooting Guard;75.10;166.25;36.17
-Juan Pierre;LA;Shooting Guard;76.15;171.00;39.54
-Luis Gonzalez;LA;Shooting Guard;78.27;190.00;49.49
-Jason Schmidt;LA;Point Guard;81.44;194.75;44.08
-Randy Wolf;LA;Point Guard;76.15;190.00;40.519999999999996
-Brad Penny;LA;Point Guard;80.38;237.50;38.769999999999996
-Derek Lowe;LA;Point Guard;82.50;199.50;43.75
-Mark Hendrickson;LA;Point Guard;85.67;218.50;42.69
-Chad Billingsley;LA;Point Guard;76.15;231.80;32.59
-Takashi Saito;LA;Center;77.21;191.90;47.04
-Jonathan Broxton;LA;Center;80.38;228.00;32.7
-Hong-Chih Kuo;LA;Center;76.15;190.00;35.6
-Eric Stults;LA;Center;76.15;204.25;37.230000000000004
-Chin-Hui Tsao;LA;Center;78.27;168.15;35.739999999999995
-Tim Hamulack;LA;Center;80.38;199.50;40.29
-Yhency Brazoban;LA;Center;77.21;161.50;36.72
-Brett Tomko;LA;Center;80.38;204.25;43.9
-Joe Beimel;LA;Center;79.33;206.15;39.86
-Elmer Dessens;LA;Center;74.04;188.10;46.13
-Ryan Budde;PHI;Point Guard;75.10;190.00;37.54
-Rod Barajas;PHI;Point Guard;78.27;209.00;41.489999999999995
-Carlos Ruiz;PHI;Point Guard;76.15;161.50;38.1
-Chris Coste;PHI;Point Guard;77.21;190.00;44.07
-Ryan Howard;PHI;Center;80.38;218.50;37.28
-Wes Helms;PHI;Center;80.38;219.45;40.8
-Chase Utley;PHI;Small Forward;77.21;173.85;38.2
-Danny Sandoval;PHI;Small Forward;75.10;182.40;37.9
-Jimmy Rollins;PHI;Power Forward;71.92;158.65;38.260000000000005
-Abraham Nu?ez;PHI;Small Forward;75.10;180.50;40.96
-Michael Bourn;PHI;Shooting Guard;75.10;171.00;34.18
-Chris Roberson;PHI;Shooting Guard;78.27;171.00;37.519999999999996
-Jayson Werth;PHI;Shooting Guard;81.44;204.25;37.78
-Shane Victorino;PHI;Shooting Guard;72.98;152.00;36.25
-Aaron Rowand;PHI;Shooting Guard;76.15;194.75;39.5
-Pat Burrell;PHI;Shooting Guard;80.38;211.85;40.39
-Greg Dobbs;PHI;Small Forward;77.21;194.75;38.66
-Cole Hamels;PHI;Point Guard;79.33;166.25;33.18
-Alfredo Simon;PHI;Point Guard;80.38;161.50;35.81
-Scott Mathieson;PHI;Point Guard;79.33;180.50;33.010000000000005
-Freddy Garcia;PHI;Point Guard;80.38;228.00;41.72
-Jamie Moyer;PHI;Point Guard;76.15;166.25;54.28
-Jon Lieber;PHI;Point Guard;78.27;218.50;46.91
-Brett Myers;PHI;Point Guard;80.38;211.85;36.54
-Adam Eaton;PHI;Point Guard;78.27;186.20;39.269999999999996
-Geoff Geary;PHI;Center;76.15;158.65;40.510000000000005
-Clay Condrey;PHI;Center;79.33;185.25;41.28
-Ryan Madson;PHI;Center;82.50;180.50;36.510000000000005
-Antonio Alfonseca;PHI;Center;81.44;237.50;44.87
-Tom Gordon;PHI;Center;74.04;180.50;49.28
-Brian Sanches;PHI;Center;76.15;180.50;38.56
-Jim Ed Warden;PHI;Center;83.56;180.50;37.82
-Anderson Garcia;PHI;Center;78.27;161.50;35.94
-Eude Brito;PHI;Center;75.10;152.00;38.53
-Fabio Castro;PHI;Center;71.92;142.50;32.11
-Matt Smith;PHI;Center;81.44;213.75;37.71
-Damian Miller;MLW;Point Guard;79.33;209.00;47.38
-Johnny Estrada;MLW;Point Guard;75.10;198.55;40.67
-Mike Rivera;MLW;Point Guard;76.15;199.50;40.480000000000004
-J.D. Closser;MLW;Point Guard;74.04;167.20;37.120000000000005
-Prince Fielder;MLW;Center;76.15;247.00;32.81
-Rickie Weeks;MLW;Small Forward;76.15;185.25;34.46
-Tony Graffanino;MLW;Small Forward;77.21;180.50;44.73
-Craig Counsell;MLW;Power Forward;76.15;174.80;46.53
-J.J. Hardy;MLW;Power Forward;78.27;171.00;34.53
-Bill Hall;MLW;Power Forward;76.15;185.25;37.17
-Vinny Rottino;MLW;Small Forward;76.15;185.25;36.9
-Corey Koskie;MLW;Small Forward;79.33;208.05;43.67
-Kevin Mench;MLW;Shooting Guard;76.15;213.75;39.14
-Geoff Jenkins;MLW;Shooting Guard;77.21;201.40;42.61
-Brady Clark;MLW;Shooting Guard;78.27;191.90;43.87
-Tony Gwynn Jr.;MLW;Shooting Guard;76.15;175.75;34.41
-Corey Hart;MLW;Shooting Guard;82.50;190.00;34.94
-Gabe Gross;MLW;Shooting Guard;79.33;198.55;37.36
-Laynce Nix;MLW;Shooting Guard;76.15;190.00;36.33
-Drew Anderson;MLW;Shooting Guard;78.27;185.25;35.72
-Claudio Vargas;MLW;Point Guard;79.33;216.60;38.7
-Chris Capuano;MLW;Point Guard;79.33;199.50;38.53
-Ben Hendrickson;MLW;Point Guard;80.38;180.50;36.07
-Dave Bush;MLW;Point Guard;78.27;201.40;37.31
-Carlos Villanueva;MLW;Point Guard;78.27;180.50;33.260000000000005
-Ben Sheets;MLW;Point Guard;77.21;207.10;38.620000000000005
-Jeff Suppan;MLW;Point Guard;78.27;209.00;42.16
-Brian Shouse;MLW;Center;75.10;180.50;48.43
-Francisco Cordero;MLW;Center;78.27;223.25;41.81
-Derrick Turnbow;MLW;Center;79.33;199.50;39.1
-Matt Wise;MLW;Center;80.38;190.00;41.28
-Grant Balfour;MLW;Center;78.27;178.60;39.17
-Dennis Sarfate;MLW;Center;80.38;199.50;35.89
-Jose Capellan;MLW;Center;80.38;223.25;36.129999999999995
-Greg Aquino;MLW;Center;77.21;178.60;39.129999999999995
-Josh Bard;SD;Point Guard;79.33;204.25;38.92
-Rob Bowen;SD;Point Guard;79.33;205.20;36.010000000000005
-Adrian Gonzalez;SD;Center;78.27;209.00;34.81
-Marcus Giles;SD;Small Forward;71.92;171.00;38.79
-Todd Walker;SD;Small Forward;76.15;175.75;43.77
-Geoff Blum;SD;Power Forward;79.33;190.00;43.85
-Khalil Greene;SD;Power Forward;75.10;199.50;37.36
-Paul McAnulty;SD;Shooting Guard;74.04;209.00;36.010000000000005
-Terrmel Sledge;SD;Shooting Guard;76.15;175.75;39.95
-Jack Cust;SD;Shooting Guard;77.21;219.45;38.120000000000005
-Jose Cruz Jr.;SD;Shooting Guard;76.15;199.50;42.87
-Russell Branyan;SD;Shooting Guard;79.33;185.25;41.2
-Mike Cameron;SD;Shooting Guard;78.27;190.00;44.14
-Brian Giles;SD;Shooting Guard;74.04;194.75;46.11
-Kevin Kouzmanoff;SD;Small Forward;77.21;190.00;35.6
-Mike Thompson;SD;Point Guard;80.38;190.00;36.31
-Clay Hensley;SD;Point Guard;75.10;180.50;37.5
-Chris Young;SD;Point Guard;86.73;237.50;37.769999999999996
-Greg Maddux;SD;Point Guard;76.15;175.75;50.88
-Jake Peavy;SD;Point Guard;77.21;171.00;35.75
-Scott Cassidy;SD;Center;78.27;161.50;41.41
-Scott Strickland;SD;Center;75.10;171.00;40.84
-Scott Linebrink;SD;Center;79.33;197.60;40.57
-Doug Brocail;SD;Center;81.44;223.25;49.79
-Trevor Hoffman;SD;Center;76.15;204.25;49.38
-Heath Bell;SD;Center;78.27;231.80;39.42
-Royce Ring;SD;Center;76.15;209.00;36.19
-Cla Meredith;SD;Center;77.21;175.75;33.739999999999995
-Andrew Brown;SD;Center;82.50;218.50;36.03
-Mike Adams;SD;Center;81.44;180.50;38.59
-Justin Hampson;SD;Center;77.21;190.00;36.769999999999996
-Kevin Cameron;SD;Center;77.21;171.00;37.21
-Ryan Ketchner;SD;Center;77.21;180.50;34.870000000000005
-Brian Schneider;WAS;Point Guard;77.21;186.20;40.260000000000005
-Jesus Flores;WAS;Point Guard;77.21;171.00;32.34
-Larry Broadway;WAS;Center;80.38;218.50;36.2
-Nick Johnson;WAS;Center;79.33;212.80;38.45
-Bernie Castro;WAS;Small Forward;74.04;152.00;37.629999999999995
-Josh Wilson;WAS;Power Forward;77.21;169.10;35.93
-Cristian Guzman;WAS;Power Forward;76.15;194.75;38.94
-Felipe Lopez;WAS;Power Forward;77.21;175.75;36.8
-Ryan Zimmerman;WAS;Small Forward;79.33;199.50;32.42
-Nook Logan;WAS;Shooting Guard;78.27;171.00;37.260000000000005
-Ryan Church;WAS;Shooting Guard;77.21;180.50;38.379999999999995
-Kory Casto;WAS;Shooting Guard;77.21;190.00;35.230000000000004
-Mike Restovich;WAS;Shooting Guard;80.38;244.15;38.16
-Alex Escobar;WAS;Shooting Guard;77.21;180.50;38.480000000000004
-Austin Kearns;WAS;Shooting Guard;79.33;209.00;36.78
-Chris Snelling;WAS;Shooting Guard;74.04;156.75;35.239999999999995
-Billy Traber;WAS;Point Guard;81.44;194.75;37.45
-Tim Redding;WAS;Point Guard;76.15;190.00;39.05
-John Patterson;WAS;Point Guard;81.44;197.60;39.08
-Shawn Hill;WAS;Point Guard;78.27;175.75;35.84
-Joel Hanrahan;WAS;Point Guard;79.33;204.25;35.4
-Mike O'Connor;WAS;Point Guard;79.33;161.50;36.54
-Emiliano Fruto;WAS;Center;79.33;223.25;32.730000000000004
-Chris Schroder;WAS;Center;79.33;199.50;38.53
-Brett Campbell;WAS;Center;76.15;161.50;35.370000000000005
-Beltran Perez;WAS;Center;78.27;171.00;35.35
-Levale Speigner;WAS;Center;75.10;161.50;36.43
-Jason Bergmann;WAS;Center;80.38;180.50;35.43
-Saul Rivera;WAS;Center;75.10;142.50;39.230000000000004
-Chris Booker;WAS;Center;79.33;218.50;40.22
-Micah Bowie;WAS;Center;80.38;192.85;42.3
-Jon Rauch;WAS;Center;87.79;247.00;38.42
-Jerome Williams;WAS;Center;79.33;233.70;35.239999999999995
-Luis Ayala;WAS;Center;78.27;176.70;39.129999999999995
-Ryan Wagner;WAS;Center;80.38;199.50;34.629999999999995
-Chad Cordero;WAS;Center;76.15;188.10;34.95
-Humberto Cota;PIT;Point Guard;76.15;199.50;38.06
-Ronny Paulino;PIT;Point Guard;79.33;204.25;35.86
-Adam LaRoche;PIT;Center;79.33;171.00;37.32
-Ryan Doumit;PIT;Center;76.15;190.00;35.91
-Brad Eldred;PIT;Center;81.44;232.75;36.629999999999995
-Jose Castillo;PIT;Small Forward;77.21;190.00;35.95
-Jack Wilson;PIT;Power Forward;76.15;182.40;39.17
-Freddy Sanchez;PIT;Small Forward;74.04;182.40;39.19
-Jason Bay;PIT;Shooting Guard;78.27;190.00;38.44
-Jose Bautista;PIT;Shooting Guard;76.15;182.40;36.36
-Xavier Nady;PIT;Shooting Guard;78.27;194.75;38.29
-Jody Gerut;PIT;Shooting Guard;76.15;180.50;39.45
-Nate McLouth;PIT;Shooting Guard;75.10;176.70;35.34
-Chris Duffy;PIT;Shooting Guard;74.04;161.50;36.86
-Rajai Davis;PIT;Shooting Guard;75.10;187.15;36.36
-Shane Youman;PIT;Point Guard;80.38;208.05;37.39
-Yoslan Herrera;PIT;Point Guard;78.27;190.00;35.84
-Josh Shortslef;PIT;Point Guard;80.38;209.00;35.08
-Zach Duke;PIT;Point Guard;78.27;196.65;33.870000000000005
-Paul Maholm;PIT;Point Guard;78.27;213.75;34.68
-Tom Gorzelanny;PIT;Point Guard;78.27;196.65;34.64
-Shawn Chacon;PIT;Point Guard;79.33;201.40;39.19
-Tony Armas Jr.;PIT;Point Guard;79.33;213.75;38.84
-Ian Snell;PIT;Point Guard;75.10;161.50;35.33
-Sean Burnett;PIT;Point Guard;75.10;180.50;34.45
-John Grabow;PIT;Center;78.27;199.50;38.32
-Marty McLeary;PIT;Center;81.44;218.50;42.34
-Salomon Torres;PIT;Center;75.10;199.50;44.97
-Damaso Marte;PIT;Center;78.27;190.00;42.04
-Matt Capps;PIT;Center;79.33;226.10;33.489999999999995
-Josh Sharpless;PIT;Center;81.44;222.30;36.09
-Bryan Bullington;PIT;Center;80.38;210.90;36.41
-Jonah Bayliss;PIT;Center;78.27;190.00;36.55
-Brian Rogers;PIT;Center;80.38;180.50;34.620000000000005
-Juan Perez;PIT;Center;76.15;161.50;38.489999999999995
-Bengie Molina;SF;Point Guard;75.10;209.00;42.61
-Eliezer Alfonzo;SF;Point Guard;76.15;211.85;38.06
-Lance Niekro;SF;Center;79.33;199.50;38.08
-Mark Sweeney;SF;Center;77.21;204.25;47.34
-Ray Durham;SF;Small Forward;71.92;186.20;45.25
-Kevin Frandsen;SF;Small Forward;76.15;166.25;34.769999999999996
-Omar Vizquel;SF;Power Forward;72.98;166.25;49.85
-Rich Aurilia;SF;Small Forward;77.21;179.55;45.49
-Pedro Feliz;SF;Small Forward;77.21;194.75;41.84
-Todd Linden;SF;Shooting Guard;79.33;199.50;36.67
-Dave Roberts;SF;Shooting Guard;74.04;171.00;44.75
-Jason Ellison;SF;Shooting Guard;74.04;171.00;38.91
-Randy Winn;SF;Shooting Guard;78.27;187.15;42.73
-Ryan Klesko;SF;Shooting Guard;79.33;209.00;45.72
-Barry Bonds;SF;Shooting Guard;78.27;216.60;52.6
-Fred Lewis;SF;Shooting Guard;78.27;180.50;36.22
-Kelyn Acosta;SF;Point Guard;77.21;193.80;31.85
-Jonathan Sanchez;SF;Point Guard;78.27;156.75;34.28
-Matt Cain;SF;Point Guard;79.33;205.20;32.41
-Matt Morris;SF;Point Guard;81.44;209.00;42.56
-Russ Ortiz;SF;Point Guard;77.21;197.60;42.74
-Noah Lowry;SF;Point Guard;78.27;199.50;36.39
-Barry Zito;SF;Point Guard;80.38;204.25;38.8
-Vinnie Chulk;SF;Center;78.27;185.25;38.2
-Kevin Correia;SF;Center;79.33;190.00;36.519999999999996
-Steve Kline;SF;Center;77.21;204.25;44.52
-Armando Benitez;SF;Center;80.38;217.55;44.32
-Scott Munter;SF;Center;82.50;228.00;36.980000000000004
-Jack Taschner;SF;Center;79.33;196.65;38.86
-Brian Wilson;SF;Center;77.21;194.75;34.96
-Merkin Valdez;SF;Center;81.44;197.60;35.3
-Brad Hennessey;SF;Center;78.27;175.75;37.06
-Billy Sadler;SF;Center;76.15;180.50;35.44
-Pat Misch;SF;Center;78.27;161.50;35.53
-Gary Bennett;STL;Point Guard;76.15;197.60;44.87
-Yadier Molina;STL;Point Guard;75.10;213.75;34.629999999999995
-John Nelson;STL;Center;77.21;180.50;37.989999999999995
-Albert Pujols;STL;Center;79.33;213.75;37.120000000000005
-Adam Kennedy;STL;Small Forward;77.21;175.75;41.14
-Aaron Miles;STL;Small Forward;70.87;171.00;40.21
-David Eckstein;STL;Power Forward;70.87;156.75;42.11
-Scott Rolen;STL;Small Forward;80.38;228.00;41.91
-Scott Spiezio;STL;Small Forward;78.27;209.00;44.44
-Jim Edmonds;STL;Shooting Guard;77.21;201.40;46.68
-So Taguchi;STL;Shooting Guard;74.04;154.85;47.66
-Juan Encarnacion;STL;Shooting Guard;79.33;204.25;40.980000000000004
-Skip Schumaker;STL;Shooting Guard;74.04;166.25;37.07
-John Rodriguez;STL;Shooting Guard;76.15;194.75;39.11
-Chris Duncan;STL;Shooting Guard;81.44;199.50;35.82
-Adam Wainwright;STL;Point Guard;83.56;194.75;35.5
-Mark Mulder;STL;Point Guard;82.50;197.60;39.57
-Anthony Reyes;STL;Point Guard;78.27;204.25;35.370000000000005
-Ryan Franklin;STL;Point Guard;79.33;171.00;43.99
-Kip Wells;STL;Point Guard;79.33;190.00;39.86
-Chris Carpenter;STL;Point Guard;82.50;218.50;41.84
-Russ Springer;STL;Center;80.38;200.45;48.31
-Jason Isringhausen;STL;Center;79.33;218.50;44.48
-Ricardo Rincon;STL;Center;72.98;180.50;46.88
-Braden Looper;STL;Center;79.33;209.00;42.34
-Randy Flores;STL;Center;76.15;171.00;41.58
-Josh Hancock;STL;Center;79.33;194.75;38.89
-Brad Thompson;STL;Center;77.21;180.50;35.08
-Tyler Johnson;STL;Center;78.27;171.00;35.730000000000004
-Chris Narveson;STL;Center;79.33;194.75;35.19
-Randy Keisler;STL;Center;79.33;180.50;41.010000000000005
-Josh Kinney;STL;Center;77.21;185.25;37.92
+Name^Team^Position^Heigth^Weigth^Age
+Adam Donachie^BAL^Point Guard^78.27^171.00^32.989999999999995
+Paul Bako^BAL^Point Guard^78.27^204.25^44.69
+Ramon Hernandez^BAL^Point Guard^76.15^199.50^40.78
+Kevin Millar^BAL^Center^76.15^199.50^45.43
+Chris Gomez^BAL^Center^77.21^178.60^45.71
+Brian Roberts^BAL^Small Forward^72.98^167.20^39.39
+Miguel Tejada^BAL^Power Forward^72.98^198.55^40.769999999999996
+Melvin Mora^BAL^Small Forward^75.10^190.00^45.07
+Aubrey Huff^BAL^Small Forward^80.38^219.45^40.19
+Adam Stern^BAL^Shooting Guard^75.10^171.00^37.05
+Jeff Fiorentino^BAL^Shooting Guard^77.21^178.60^33.879999999999995
+Freddie Bynum^BAL^Shooting Guard^77.21^171.00^36.96
+Nick Markakis^BAL^Shooting Guard^78.27^175.75^33.29
+Brandon Fahey^BAL^Shooting Guard^78.27^152.00^36.11
+Corey Patterson^BAL^Shooting Guard^72.98^171.00^37.55
+Jay Payton^BAL^Shooting Guard^74.04^175.75^44.27
+Jay Gibbons^BAL^Small Forward^76.15^187.15^40.0
+Erik Bedard^BAL^Point Guard^77.21^179.55^37.989999999999995
+Hayden Penn^BAL^Point Guard^79.33^175.75^32.379999999999995
+Adam Loewen^BAL^Point Guard^82.50^208.05^32.89
+Daniel Cabrera^BAL^Point Guard^83.56^218.50^35.760000000000005
+Steve Trachsel^BAL^Point Guard^80.38^194.75^46.33
+Jaret Wright^BAL^Point Guard^78.27^218.50^41.17
+Kris Benson^BAL^Point Guard^80.38^185.25^42.31
+Scott Williamson^BAL^Center^76.15^171.00^41.03
+John Parrish^BAL^Center^75.10^182.40^39.260000000000005
+Danys Baez^BAL^Center^79.33^213.75^39.47
+Chad Bradford^BAL^Center^81.44^192.85^42.46
+Jamie Walker^BAL^Center^78.27^185.25^45.67
+Brian Burres^BAL^Center^77.21^172.90^35.89
+Kurt Birkins^BAL^Center^78.27^178.60^36.55
+James Hoey^BAL^Center^82.50^190.00^34.17
+Sendy Rleal^BAL^Center^77.21^171.00^36.69
+Chris Ray^BAL^Center^79.33^190.00^35.129999999999995
+Jeremy Guthrie^BAL^Center^77.21^190.00^37.9
+A.J. Pierzynski^CWS^Point Guard^79.33^232.75^40.17
+Toby Hall^CWS^Point Guard^79.33^228.00^41.36
+Paul Konerko^CWS^Center^78.27^204.25^40.989999999999995
+Tadahito Iguchi^CWS^Small Forward^72.98^175.75^42.24
+Juan Uribe^CWS^Power Forward^75.10^166.25^37.61
+Alex Cintron^CWS^Power Forward^78.27^189.05^38.2
+Joe Crede^CWS^Small Forward^77.21^190.00^38.85
+Josh Fields^CWS^Small Forward^77.21^204.25^34.21
+Ryan Sweeney^CWS^Shooting Guard^80.38^190.00^32.019999999999996
+Brian N. Anderson^CWS^Shooting Guard^78.27^194.75^34.97
+Luis Terrero^CWS^Shooting Guard^78.27^195.70^36.78
+Pablo Ozuna^CWS^Shooting Guard^74.04^176.70^42.51
+Scott Podsednik^CWS^Shooting Guard^76.15^178.60^40.95
+Jermaine Dye^CWS^Shooting Guard^81.44^209.00^43.09
+Darin Erstad^CWS^Shooting Guard^78.27^199.50^42.74
+Rob Mackowiak^CWS^Shooting Guard^74.04^185.25^40.69
+Jim Thome^CWS^Small Forward^80.38^231.80^46.51
+Jerry Owens^CWS^Small Forward^79.33^185.25^36.03
+Charlie Haeger^CWS^Point Guard^77.21^190.00^33.45
+Heath Phillips^CWS^Point Guard^79.33^190.00^34.94
+Gavin Floyd^CWS^Point Guard^80.38^201.40^34.09
+Jose Contreras^CWS^Point Guard^80.38^212.80^45.23
+Jon Garland^CWS^Point Guard^82.50^199.50^37.43
+Javier Vazquez^CWS^Point Guard^78.27^194.75^40.6
+Mark Buehrle^CWS^Point Guard^78.27^209.00^37.94
+Mike MacDougal^CWS^Center^80.38^185.25^39.989999999999995
+David Aardsma^CWS^Center^81.44^190.00^35.17
+Andrew Sisco^CWS^Center^85.67^247.00^34.129999999999995
+Matt Thornton^CWS^Center^82.50^216.60^40.46
+Bobby Jenks^CWS^Center^79.33^256.50^35.96
+Boone Logan^CWS^Center^81.44^190.00^32.55
+Sean Tracey^CWS^Center^79.33^199.50^36.29
+Nick Masset^CWS^Center^80.38^180.50^34.79
+Jose Molina^ANA^Point Guard^78.27^209.00^41.739999999999995
+Jeff Mathis^ANA^Point Guard^76.15^171.00^33.92
+Mike Napoli^ANA^Point Guard^76.15^194.75^35.33
+Casey Kotchman^ANA^Center^79.33^199.50^34.019999999999996
+Kendry Morales^ANA^Center^77.21^209.00^33.7
+Shea Hillenbrand^ANA^Center^77.21^200.45^41.59
+Robb Quinlan^ANA^Center^77.21^190.00^39.95
+Howie Kendrick^ANA^Center^74.04^171.00^33.64
+Orlando Cabrera^ANA^Power Forward^74.04^180.50^42.33
+Erick Aybar^ANA^Power Forward^74.04^161.50^33.129999999999995
+Dallas McPherson^ANA^Small Forward^80.38^218.50^36.6
+Maicer Izturis^ANA^Small Forward^71.92^147.25^36.46
+Reggie Willits^ANA^Shooting Guard^75.10^175.75^35.75
+Tommy Murphy^ANA^Shooting Guard^76.15^175.75^37.510000000000005
+Terry Evans^ANA^Shooting Guard^79.33^190.00^35.11
+Gary Matthews Jr.^ANA^Shooting Guard^79.33^213.75^42.51
+Garret Anderson^ANA^Shooting Guard^79.33^213.75^44.67
+Vladimir Guerrero^ANA^Shooting Guard^79.33^209.00^41.06
+Chone Figgins^ANA^Shooting Guard^71.92^152.00^39.1
+Juan Rivera^ANA^Shooting Guard^78.27^194.75^38.66
+John Lackey^ANA^Point Guard^82.50^223.25^38.35
+Bartolo Colon^ANA^Point Guard^75.10^237.50^43.77
+Kelvim Escobar^ANA^Point Guard^77.21^199.50^40.89
+Dustin Moseley^ANA^Point Guard^80.38^180.50^47.74
+Ervin Santana^ANA^Point Guard^78.27^152.00^34.14
+Joe Saunders^ANA^Point Guard^78.27^190.00^35.71
+Jered Weaver^ANA^Point Guard^83.56^194.75^34.41
+Chris Resop^ANA^Center^79.33^210.90^34.32
+Phil Seibel^ANA^Center^77.21^185.25^38.09
+Justin Speier^ANA^Center^80.38^194.75^43.31
+Darren Oliver^ANA^Center^78.27^209.00^46.4
+Hector Carrasco^ANA^Center^78.27^209.00^47.36
+Scot Shields^ANA^Center^77.21^161.50^41.61
+Francisco Rodriguez^ANA^Center^76.15^175.75^35.14
+Greg Jones^ANA^Center^78.27^185.25^40.29
+Doug Mirabelli^BOS^Point Guard^77.21^209.00^46.37
+Jason Varitek^BOS^Point Guard^78.27^218.50^44.89
+George Kottaras^BOS^Point Guard^76.15^171.00^33.79
+Kevin Youkilis^BOS^Center^77.21^209.00^37.96
+Dustin Pedroia^BOS^Small Forward^72.98^171.00^33.54
+Alex Cora^BOS^Power Forward^76.15^171.00^41.370000000000005
+Julio Lugo^BOS^Power Forward^77.21^161.50^41.29
+Mike Lowell^BOS^Small Forward^79.33^199.50^43.01
+Wily Mo Pe?a^BOS^Shooting Guard^79.33^204.25^35.1
+J.D. Drew^BOS^Shooting Guard^77.21^190.00^41.28
+Manny Ramirez^BOS^Shooting Guard^76.15^202.35^44.75
+Brandon Moss^BOS^Shooting Guard^76.15^171.00^33.46
+David Murphy^BOS^Shooting Guard^80.38^182.40^35.370000000000005
+Eric Hinske^BOS^Shooting Guard^78.27^223.25^39.57
+Coco Crisp^BOS^Shooting Guard^76.15^175.75^37.33
+David Ortiz^BOS^Small Forward^80.38^218.50^41.28
+Curt Schilling^BOS^Point Guard^81.44^223.25^50.29
+Tim Wakefield^BOS^Point Guard^78.27^199.50^50.58
+Josh Beckett^BOS^Point Guard^81.44^210.90^36.79
+Matt Clement^BOS^Point Guard^79.33^199.50^42.55
+Jonathan Papelbon^BOS^Point Guard^80.38^218.50^36.269999999999996
+Kyle Snyder^BOS^Point Guard^84.62^209.00^39.47
+Devern Hansack^BOS^Point Guard^78.27^171.00^39.07
+Jon Lester^BOS^Point Guard^78.27^180.50^33.15
+Kason Gabbard^BOS^Point Guard^79.33^190.00^34.9
+Craig Hansen^BOS^Center^82.50^199.50^33.29
+Hideki Okajima^BOS^Center^77.21^184.30^41.18
+Craig Breslow^BOS^Center^77.21^171.00^36.56
+Manny Delcarmen^BOS^Center^78.27^180.50^35.03
+Brendan Donnelly^BOS^Center^79.33^228.00^45.66
+Javier Lopez^BOS^Center^80.38^190.00^39.64
+J.C. Romero^BOS^Center^75.10^188.10^40.739999999999995
+Joel Pineiro^BOS^Center^77.21^190.00^38.43
+Julian Tavarez^BOS^Center^78.27^185.25^43.77
+Mike Timlin^BOS^Center^80.38^199.50^50.97
+Nick DeBarr^BOS^Center^80.38^209.00^33.519999999999996
+Victor Martinez^CLE^Point Guard^78.27^180.50^38.19
+Kelly Shoppach^CLE^Point Guard^77.21^199.50^36.84
+Ryan Garko^CLE^Center^78.27^213.75^36.16
+Joe Inglett^CLE^Small Forward^74.04^171.00^38.67
+Josh Barfield^CLE^Small Forward^76.15^175.75^34.2
+Hector Luna^CLE^Small Forward^77.21^161.50^37.08
+Jhonny Peralta^CLE^Power Forward^77.21^175.75^34.760000000000005
+Andy Marte^CLE^Small Forward^77.21^175.75^33.36
+Ben Francisco^CLE^Shooting Guard^77.21^171.00^35.35
+Shin-Soo Choo^CLE^Shooting Guard^75.10^169.10^34.629999999999995
+Franklin Gutierrez^CLE^Shooting Guard^78.27^166.25^34.019999999999996
+Grady Sizemore^CLE^Shooting Guard^78.27^190.00^34.58
+Jason Michaels^CLE^Shooting Guard^76.15^193.80^40.82
+Trot Nixon^CLE^Shooting Guard^78.27^200.45^42.89
+David Dellucci^CLE^Shooting Guard^75.10^180.50^43.33
+Casey Blake^CLE^Shooting Guard^78.27^199.50^43.52
+Travis Hafner^CLE^Small Forward^79.33^228.00^39.739999999999995
+Paul Byrd^CLE^Point Guard^77.21^180.50^46.24
+Cliff Lee^CLE^Point Guard^79.33^180.50^38.5
+Jake Westbrook^CLE^Point Guard^79.33^175.75^39.42
+C.C. Sabathia^CLE^Point Guard^83.56^275.50^36.61
+Jeremy Sowers^CLE^Point Guard^77.21^166.25^33.79
+Rafael Perez^CLE^Center^79.33^175.75^34.96
+Brian Slocum^CLE^Center^80.38^190.00^35.93
+Edward Mujica^CLE^Center^78.27^209.00^32.81
+Fernando Cabrera^CLE^Center^80.38^161.50^35.29
+Tom Mastny^CLE^Center^82.50^209.00^36.07
+Juan Lara^CLE^Center^78.27^180.50^36.09
+Fausto Carmona^CLE^Center^80.38^209.00^33.230000000000004
+Aaron Fultz^CLE^Center^76.15^194.75^43.49
+Rafael Betancourt^CLE^Center^78.27^190.00^41.84
+Roberto Hernandez^CLE^Center^80.38^237.50^52.3
+Joe Borowski^CLE^Center^78.27^213.75^45.82
+Matt Miller^CLE^Center^79.33^204.25^45.27
+Jason Davis^CLE^Center^82.50^199.50^36.81
+Mike Piazza^OAK^Point Guard^79.33^204.25^48.49
+Jason Kendall^OAK^Point Guard^76.15^185.25^42.68
+Adam Melhuse^OAK^Point Guard^78.27^190.00^44.93
+Nick Swisher^OAK^Center^76.15^184.30^36.260000000000005
+Dan Johnson^OAK^Center^78.27^209.00^37.56
+Donald Murphy^OAK^Small Forward^74.04^171.00^33.980000000000004
+Mark Ellis^OAK^Small Forward^75.10^171.00^39.730000000000004
+Marco Scutaro^OAK^Power Forward^74.04^161.50^41.33
+Bobby Crosby^OAK^Power Forward^79.33^185.25^37.129999999999995
+Mark Kiger^OAK^Power Forward^75.10^171.00^36.75
+Antonio Perez^OAK^Small Forward^75.10^161.50^37.09
+Eric Chavez^OAK^Small Forward^77.21^195.70^39.230000000000004
+Milton Bradley^OAK^Shooting Guard^76.15^194.75^38.879999999999995
+Shannon Stewart^OAK^Shooting Guard^75.10^190.00^43.01
+Bobby Kielty^OAK^Shooting Guard^77.21^213.75^40.57
+Mark Kotsay^OAK^Shooting Guard^76.15^190.95^41.239999999999995
+Ryan Goleski^OAK^Shooting Guard^79.33^213.75^34.95
+Jeremy Brown^OAK^Small Forward^74.04^214.70^37.35
+Jason Windsor^OAK^Point Guard^78.27^221.35^34.620000000000005
+David Shafer^OAK^Point Guard^78.27^171.00^34.980000000000004
+Joe Blanton^OAK^Point Guard^79.33^213.75^36.22
+Brad Halsey^OAK^Point Guard^77.21^171.00^36.04
+Dan Haren^OAK^Point Guard^81.44^209.00^36.45
+Rich Harden^OAK^Point Guard^77.21^171.00^35.25
+Joe Kennedy^OAK^Point Guard^80.38^225.15^37.769999999999996
+Esteban Loaiza^OAK^Point Guard^79.33^204.25^45.16
+Alan Embree^OAK^Center^78.27^180.50^47.1
+Jay Witasick^OAK^Center^80.38^223.25^44.51
+Justin Duchscherer^OAK^Center^79.33^180.50^39.28
+Kiko Calero^OAK^Center^77.21^171.00^42.14
+Chad Gaudin^OAK^Center^75.10^156.75^33.94
+Lenny DiNardo^OAK^Center^80.38^185.25^37.45
+Scott Dunn^OAK^Center^79.33^190.00^38.769999999999996
+Huston Street^OAK^Center^76.15^180.50^33.58
+Ron Flores^OAK^Center^75.10^180.50^37.56
+Jay Marshall^OAK^Center^81.44^175.75^34.010000000000005
+Marcus McBeth^OAK^Center^77.21^175.75^36.519999999999996
+Jorge Posada^NYY^Point Guard^78.27^194.75^45.54
+Wil Nieves^NYY^Point Guard^75.10^180.50^39.43
+Andy Phillips^NYY^Center^76.15^194.75^39.9
+Doug Mientkiewicz^NYY^Center^78.27^195.70^42.7
+Josh Phelps^NYY^Center^79.33^209.00^38.8
+Miguel Cairo^NYY^Small Forward^77.21^197.60^42.82
+Robinson Cano^NYY^Small Forward^76.15^161.50^34.36
+Derek Jeter^NYY^Power Forward^79.33^185.25^42.68
+Alex Rodriguez^NYY^Small Forward^79.33^199.50^41.59
+Johnny Damon^NYY^Shooting Guard^78.27^180.50^43.32
+Bobby Abreu^NYY^Shooting Guard^76.15^200.45^42.97
+Hideki Matsui^NYY^Shooting Guard^78.27^218.50^42.72
+Melky Cabrera^NYY^Shooting Guard^75.10^161.50^32.55
+Kevin Thompson^NYY^Shooting Guard^74.04^175.75^37.45
+Jason Giambi^NYY^Small Forward^79.33^218.50^46.14
+Mike Mussina^NYY^Point Guard^78.27^175.75^48.23
+Carl Pavano^NYY^Point Guard^81.44^228.95^41.14
+Andy Pettitte^NYY^Point Guard^81.44^213.75^44.71
+Darrell Rasner^NYY^Point Guard^79.33^199.50^36.129999999999995
+Jeff Karstens^NYY^Point Guard^79.33^166.25^34.43
+Humberto Sanchez^NYY^Point Guard^82.50^218.50^33.760000000000005
+Chien-Ming Wang^NYY^Point Guard^79.33^190.00^36.92
+Sean Henn^NYY^Center^80.38^204.25^35.85
+Scott Proctor^NYY^Center^77.21^188.10^40.16
+Brian Bruney^NYY^Center^79.33^214.70^35.03
+Chris Britton^NYY^Center^79.33^264.10^34.21
+T.J. Beam^NYY^Center^83.56^204.25^36.510000000000005
+Jose Veras^NYY^Center^81.44^218.50^36.36
+Kyle Farnsworth^NYY^Center^80.38^228.00^40.879999999999995
+Luis Vizcaino^NYY^Center^75.10^174.80^42.57
+Mike Myers^NYY^Center^79.33^208.05^47.68
+Mariano Rivera^NYY^Center^78.27^161.50^47.25
+Ivan Rodriguez^DET^Point Guard^72.98^207.10^45.25
+Vance Wilson^DET^Point Guard^75.10^180.50^43.95
+Sean Casey^DET^Center^80.38^213.75^42.66
+Chris Shelton^DET^Center^76.15^209.00^36.68
+Omar Infante^DET^Small Forward^76.15^167.20^35.18
+Placido Polanco^DET^Small Forward^74.04^180.50^41.39
+Neifi Perez^DET^Small Forward^76.15^187.15^43.74
+Carlos Guillen^DET^Power Forward^77.21^193.80^41.42
+Ramon Santiago^DET^Power Forward^75.10^158.65^37.5
+Tony Giarratano^DET^Power Forward^76.15^171.00^34.25
+Brandon Inge^DET^Small Forward^75.10^185.25^39.78
+Craig Monroe^DET^Shooting Guard^77.21^209.00^40.0
+Magglio Ordo?ez^DET^Shooting Guard^76.15^204.25^43.09
+Curtis Granderson^DET^Shooting Guard^77.21^175.75^35.96
+Brent Clevlen^DET^Shooting Guard^78.27^180.50^33.34
+Marcus Thames^DET^Shooting Guard^78.27^194.75^39.980000000000004
+Gary Sheffield^DET^Shooting Guard^76.15^194.75^48.28
+Mike Rabelo^DET^Small Forward^77.21^190.00^37.120000000000005
+Zach Miner^DET^Point Guard^79.33^190.00^34.97
+Jeremy Bonderman^DET^Point Guard^78.27^199.50^34.34
+Nate Robertson^DET^Point Guard^78.27^204.25^39.489999999999995
+Justin Verlander^DET^Point Guard^81.44^190.00^34.019999999999996
+Virgil Vasquez^DET^Point Guard^79.33^194.75^34.730000000000004
+Kenny Rogers^DET^Point Guard^77.21^200.45^52.3
+Mike Maroth^DET^Point Guard^76.15^180.50^39.54
+Fernando Rodney^DET^Center^75.10^197.60^39.95
+Chad Durbin^DET^Center^78.27^190.00^39.239999999999995
+Jason Grilli^DET^Center^81.44^199.50^40.3
+Jose Mesa^DET^Center^79.33^220.40^50.77
+Todd Jones^DET^Center^79.33^218.50^48.85
+Joel Zumaya^DET^Center^79.33^199.50^32.31
+Jordan Tata^DET^Center^82.50^209.00^35.44
+Andrew Miller^DET^Center^82.50^199.50^31.78
+Yorman Bazardo^DET^Center^78.27^191.90^32.64
+Wilfredo Ledezma^DET^Center^80.38^201.40^36.11
+Roman Colon^DET^Center^82.50^213.75^37.55
+Edward Campusano^DET^Center^80.38^161.50^34.629999999999995
+Rene Rivera^SEA^Point Guard^74.04^180.50^33.58
+Kenji Johjima^SEA^Point Guard^76.15^190.00^40.730000000000004
+Richie Sexson^SEA^Center^84.62^225.15^42.17
+Ben Broussard^SEA^Center^78.27^209.00^40.43
+Jose Lopez^SEA^Small Forward^78.27^161.50^33.269999999999996
+Jose Vidro^SEA^Small Forward^75.10^183.35^42.51
+Yuniesky Betancourt^SEA^Power Forward^74.04^180.50^35.08
+Oswaldo Navarro^SEA^Power Forward^76.15^142.50^32.41
+Adrian Beltre^SEA^Small Forward^75.10^209.00^37.9
+Raul Ibanez^SEA^Shooting Guard^78.27^190.00^44.74
+Jose Guillen^SEA^Shooting Guard^75.10^180.50^40.79
+Jeremy Reed^SEA^Shooting Guard^76.15^175.75^35.71
+Willie Bloomquist^SEA^Shooting Guard^75.10^175.75^39.260000000000005
+Adam Jones^SEA^Shooting Guard^78.27^190.00^31.58
+Ichiro Suzuki^SEA^Shooting Guard^72.98^163.40^43.36
+Mike Morse^SEA^Shooting Guard^80.38^209.00^34.94
+Felix Hernandez^SEA^Point Guard^79.33^213.75^30.9
+Ryan Feierabend^SEA^Point Guard^79.33^180.50^31.52
+Sean White^SEA^Point Guard^80.38^185.25^35.85
+Horacio Ramirez^SEA^Point Guard^77.21^208.05^37.269999999999996
+Cha Baek^SEA^Point Guard^80.38^180.50^36.75
+Miguel Batista^SEA^Point Guard^77.21^187.15^46.03
+Jeff Weaver^SEA^Point Guard^81.44^190.00^40.519999999999996
+Jarrod Washburn^SEA^Point Guard^77.21^185.25^42.55
+George Sherrill^SEA^Center^76.15^199.50^39.86
+Julio Mateo^SEA^Center^76.15^168.15^39.58
+J.J. Putz^SEA^Center^81.44^209.00^40.019999999999996
+Chris Reitsma^SEA^Center^81.44^223.25^39.16
+Cesar Jimenez^SEA^Center^75.10^171.00^32.3
+Eric O'Flaherty^SEA^Center^78.27^185.25^32.06
+Jon Huber^SEA^Center^78.27^185.25^35.65
+Jake Woods^SEA^Center^77.21^180.50^35.489999999999995
+Sean Green^SEA^Center^82.50^218.50^37.86
+Mark Lowe^SEA^Center^79.33^180.50^33.730000000000004
+Josh Paul^TB^Point Guard^77.21^190.00^41.78
+Dioner Navarro^TB^Point Guard^74.04^180.50^33.06
+Shawn Riggans^TB^Point Guard^78.27^180.50^36.6
+Ty Wigginton^TB^Center^76.15^190.00^39.39
+Brendan Harris^TB^Small Forward^77.21^190.00^36.510000000000005
+Jorge Cantu^TB^Small Forward^77.21^174.80^35.08
+Ben Zobrist^TB^Power Forward^79.33^190.00^35.760000000000005
+B.J. Upton^TB^Small Forward^79.33^171.00^32.519999999999996
+Carl Crawford^TB^Shooting Guard^78.27^208.05^35.57
+Rocco Baldelli^TB^Shooting Guard^80.38^177.65^35.43
+Greg Norton^TB^Shooting Guard^77.21^190.00^44.65
+Elijah Dukes^TB^Shooting Guard^78.27^209.00^32.68
+Delmon Young^TB^Shooting Guard^79.33^194.75^31.46
+Jonny Gomes^TB^Small Forward^77.21^194.75^36.269999999999996
+Edwin Jackson^TB^Point Guard^79.33^180.50^33.47
+Scott Kazmir^TB^Point Guard^76.15^161.50^33.1
+Casey Fossum^TB^Point Guard^77.21^152.00^39.14
+Jae Seo^TB^Point Guard^77.21^204.25^39.769999999999996
+J.P. Howell^TB^Point Guard^76.15^166.25^33.85
+Tim Corcoran^TB^Point Guard^78.27^194.75^38.879999999999995
+Jason Hammel^TB^Point Guard^82.50^190.00^34.489999999999995
+James Shields^TB^Point Guard^80.38^203.30^35.19
+Brian Stokes^TB^Point Guard^77.21^190.00^37.480000000000004
+Juan Salas^TB^Center^78.27^180.50^38.31
+Jeff Ridgway^TB^Center^79.33^171.00^36.54
+Ruddy Lugo^TB^Center^74.04^194.75^36.769999999999996
+Jae-Kuk Ryu^TB^Center^79.33^209.00^33.75
+Chad Orvella^TB^Center^75.10^180.50^36.41
+Dan Miceli^TB^Center^76.15^204.25^46.47
+Seth McClung^TB^Center^82.50^223.25^36.06
+Jon Switzer^TB^Center^79.33^181.45^37.55
+Shawn Camp^TB^Center^77.21^190.00^41.28
+Scott Dohmann^TB^Center^77.21^171.95^39.04
+Jason LaRue^KC^Point Guard^75.10^190.00^42.95
+John Buck^KC^Point Guard^79.33^199.50^36.65
+Ryan Shealy^KC^Center^81.44^228.00^37.5
+Ross Gload^KC^Center^76.15^175.75^40.9
+Esteban German^KC^Small Forward^72.98^156.75^39.09
+Mark Grudzielanek^KC^Small Forward^77.21^180.50^46.67
+Angel Sanchez^KC^Small Forward^78.27^175.75^33.44
+Angel Berroa^KC^Power Forward^76.15^166.25^39.09
+Andres Blanco^KC^Power Forward^74.04^147.25^32.89
+Mark Teahen^KC^Small Forward^79.33^199.50^35.480000000000004
+Joey Gathright^KC^Shooting Guard^74.04^161.50^35.84
+David DeJesus^KC^Shooting Guard^76.15^166.25^37.2
+Shane Costa^KC^Shooting Guard^76.15^209.00^35.22
+Mitch Maier^KC^Shooting Guard^78.27^199.50^34.67
+Reggie Sanders^KC^Shooting Guard^77.21^194.75^49.25
+Emil Brown^KC^Shooting Guard^78.27^190.00^42.17
+Mike Sweeney^KC^Small Forward^79.33^213.75^43.61
+John Bale^KC^Point Guard^80.38^194.75^42.77
+Luke Hudson^KC^Point Guard^79.33^185.25^39.83
+Scott Elarton^KC^Point Guard^84.62^228.00^41.019999999999996
+Odalis Perez^KC^Point Guard^76.15^142.50^39.730000000000004
+Gil Meche^KC^Point Guard^79.33^190.00^38.480000000000004
+Neal Musser^KC^Point Guard^77.21^204.25^36.510000000000005
+Brian Bannister^KC^Point Guard^78.27^191.90^36.0
+Zack Greinke^KC^Point Guard^78.27^190.00^33.36
+Jorge De La Rosa^KC^Point Guard^77.21^180.50^35.9
+Todd Wellemeyer^KC^Center^79.33^194.75^38.5
+Jimmy Gobble^KC^Center^79.33^180.50^35.620000000000005
+Joel Peralta^KC^Center^75.10^152.00^40.94
+Ryan Braun^KC^Center^77.21^204.25^36.59
+Joakim Soria^KC^Center^79.33^175.75^32.78
+Ken Ray^KC^Center^78.27^190.00^42.26
+David Riske^KC^Center^78.27^180.50^40.35
+Octavio Dotel^KC^Center^76.15^199.50^43.26
+Joe Nelson^KC^Center^78.27^175.75^42.35
+Gerald Laird^TEX^Point Guard^78.27^209.00^37.3
+Miguel Ojeda^TEX^Point Guard^78.27^180.50^42.08
+Guillermo Quiroz^TEX^Point Guard^77.21^191.90^35.25
+Chris Stewart^TEX^Point Guard^80.38^194.75^35.03
+Mark Teixeira^TEX^Center^79.33^209.00^36.89
+Ian Kinsler^TEX^Small Forward^76.15^166.25^34.69
+Joaquin Arias^TEX^Power Forward^77.21^152.00^32.44
+Michael Young^TEX^Power Forward^77.21^180.50^40.36
+Hank Blalock^TEX^Small Forward^77.21^190.00^36.269999999999996
+Marlon Byrd^TEX^Shooting Guard^76.15^217.55^39.5
+Brad Wilkerson^TEX^Shooting Guard^76.15^195.70^39.75
+Sammy Sosa^TEX^Shooting Guard^76.15^209.00^48.3
+Kenny Lofton^TEX^Shooting Guard^76.15^171.00^49.75
+Frank Catalanotto^TEX^Shooting Guard^75.10^185.25^42.84
+Nelson Cruz^TEX^Shooting Guard^79.33^166.25^36.66
+Jason Botts^TEX^Small Forward^81.44^237.50^36.6
+Robinson Tejeda^TEX^Point Guard^79.33^178.60^34.94
+John Rheinecker^TEX^Point Guard^78.27^218.50^37.760000000000005
+Edinson Volquez^TEX^Point Guard^77.21^180.50^33.66
+A.J. Murray^TEX^Point Guard^79.33^190.00^34.96
+Brandon McCarthy^TEX^Point Guard^83.56^180.50^33.65
+Vicente Padilla^TEX^Point Guard^78.27^208.05^39.42
+Kevin Millwood^TEX^Point Guard^80.38^223.25^42.18
+John Koronka^TEX^Point Guard^77.21^171.00^36.66
+Frank Francisco^TEX^Center^78.27^171.00^37.47
+Francisco Cruceta^TEX^Center^78.27^171.00^35.66
+Akinori Otsuka^TEX^Center^76.15^190.00^45.13
+Eric Gagne^TEX^Center^78.27^222.30^41.15
+Ron Mahay^TEX^Center^78.27^175.75^45.67
+Joaquin Benoit^TEX^Center^79.33^209.00^39.6
+Rick Bauer^TEX^Center^82.50^211.85^40.14
+Josh Rupe^TEX^Center^78.27^190.00^34.53
+Wes Littleton^TEX^Center^78.27^199.50^34.489999999999995
+C.J. Wilson^TEX^Center^78.27^190.00^36.28
+Scott Feldman^TEX^Center^81.44^199.50^34.06
+Gregg Zaun^TOR^Point Guard^74.04^180.50^45.88
+Jason Phillips^TOR^Point Guard^77.21^168.15^40.42
+Lyle Overbay^TOR^Center^78.27^215.65^40.09
+Russ Adams^TOR^Small Forward^77.21^171.00^36.5
+Aaron Hill^TOR^Small Forward^75.10^185.25^34.94
+Jason Smith^TOR^Small Forward^79.33^189.05^39.6
+John McDonald^TOR^Power Forward^75.10^166.25^42.43
+Royce Clayton^TOR^Power Forward^76.15^175.75^47.16
+Troy Glaus^TOR^Small Forward^81.44^228.00^40.57
+John Hattig^TOR^Small Forward^78.27^199.50^37.010000000000005
+Reed Johnson^TOR^Shooting Guard^74.04^171.00^40.230000000000004
+Alex Rios^TOR^Shooting Guard^81.44^184.30^36.03
+Vernon Wells^TOR^Shooting Guard^77.21^213.75^38.230000000000004
+Frank Thomas^TOR^Small Forward^81.44^261.25^48.76
+Adam Lind^TOR^Small Forward^78.27^185.25^33.620000000000005
+Shaun Marcum^TOR^Point Guard^76.15^171.00^35.21
+Casey Janssen^TOR^Point Guard^80.38^194.75^35.45
+Gustavo Chacin^TOR^Point Guard^75.10^183.35^36.239999999999995
+A.J. Burnett^TOR^Point Guard^80.38^218.50^40.15
+Roy Halladay^TOR^Point Guard^82.50^218.50^39.8
+John Thomson^TOR^Point Guard^79.33^209.00^43.41
+Tomo Ohka^TOR^Point Guard^77.21^190.00^40.95
+B.J. Ryan^TOR^Center^82.50^236.55^41.17
+Scott Downs^TOR^Center^78.27^180.50^40.95
+Brian Tallet^TOR^Center^83.56^197.60^39.44
+Matt Roney^TOR^Center^79.33^232.75^37.14
+Tracy Thorpe^TOR^Center^80.38^237.50^36.21
+Jean Machi^TOR^Center^76.15^152.00^34.08
+Brandon League^TOR^Center^79.33^182.40^33.96
+Dustin McGowan^TOR^Center^79.33^209.00^34.94
+Jason Frasor^TOR^Center^74.04^161.50^39.56
+Francisco Rosario^TOR^Center^76.15^187.15^36.42
+Davis Romero^TOR^Center^74.04^147.25^33.92
+Jeremy Accardo^TOR^Center^78.27^180.50^35.230000000000004
+Mike Redmond^MIN^Point Guard^75.10^190.00^45.82
+Joe Mauer^MIN^Point Guard^80.38^209.00^33.870000000000005
+Chris Heintz^MIN^Point Guard^77.21^199.50^42.57
+Justin Morneau^MIN^Center^80.38^216.60^35.79
+Luis Castillo^MIN^Small Forward^75.10^180.50^41.47
+Alexi Casilla^MIN^Small Forward^72.98^152.00^32.61
+Alejandro Machado^MIN^Small Forward^76.15^174.80^34.85
+Jason Bartlett^MIN^Power Forward^76.15^171.00^37.33
+Luis Rodriguez^MIN^Small Forward^72.98^171.00^36.67
+Jeff Cirillo^MIN^Small Forward^77.21^190.00^47.43
+Nick Punto^MIN^Small Forward^72.98^167.20^39.31
+Jason Tyner^MIN^Shooting Guard^77.21^152.00^39.85
+Michael Cuddyer^MIN^Shooting Guard^78.27^210.90^37.93
+Torii Hunter^MIN^Shooting Guard^78.27^200.45^41.620000000000005
+Lew Ford^MIN^Shooting Guard^76.15^185.25^40.55
+Jason Kubel^MIN^Shooting Guard^75.10^190.00^34.769999999999996
+Josh Rabe^MIN^Small Forward^78.27^199.50^38.379999999999995
+Rondell White^MIN^Small Forward^77.21^213.75^45.02
+Ramon Ortiz^MIN^Point Guard^76.15^166.25^43.77
+Johan Santana^MIN^Point Guard^76.15^195.70^37.97
+Carlos Silva^MIN^Point Guard^80.38^228.00^37.85
+Matt Garza^MIN^Point Guard^80.38^175.75^33.260000000000005
+Boof Bonser^MIN^Point Guard^80.38^247.00^35.379999999999995
+Francisco Liriano^MIN^Point Guard^78.27^175.75^33.35
+Scott Baker^MIN^Point Guard^80.38^209.95^35.45
+Pat Neshek^MIN^Center^79.33^194.75^36.489999999999995
+Glen Perkins^MIN^Center^75.10^190.00^34.0
+Julio DePaula^MIN^Center^76.15^161.50^34.16
+Juan Rincon^MIN^Center^75.10^190.95^38.1
+Jesse Crain^MIN^Center^77.21^194.75^35.65
+Matt Guerrier^MIN^Center^79.33^175.75^38.58
+Joe Nathan^MIN^Center^80.38^194.75^42.27
+Dennys Reyes^MIN^Center^79.33^232.75^39.86
+Brayan Pe?a^ATL^Point Guard^75.10^209.00^35.14
+Brian McCann^ATL^Point Guard^79.33^199.50^33.03
+Craig Wilson^ATL^Center^78.27^209.00^40.25
+Chris Woodward^ATL^Small Forward^76.15^175.75^40.67
+Pete Orr^ATL^Small Forward^77.21^166.25^37.730000000000004
+Martin Prado^ATL^Small Forward^77.21^161.50^33.34
+Tony Pe?a^ATL^Power Forward^77.21^171.00^35.94
+Edgar Renteria^ATL^Power Forward^77.21^190.00^41.56
+Chipper Jones^ATL^Small Forward^80.38^199.50^44.85
+Willy Aybar^ATL^Small Forward^76.15^166.25^33.980000000000004
+Jeff Francoeur^ATL^Shooting Guard^80.38^209.00^33.14
+Matt Diaz^ATL^Shooting Guard^77.21^195.70^38.989999999999995
+Kelly Johnson^ATL^Shooting Guard^77.21^171.00^35.019999999999996
+Andruw Jones^ATL^Shooting Guard^77.21^199.50^39.85
+Ryan Langerhans^ATL^Shooting Guard^79.33^185.25^37.03
+Scott Thorman^ATL^Shooting Guard^79.33^190.00^35.15
+T.J. Bohn^ATL^Shooting Guard^81.44^190.00^37.120000000000005
+Tim Hudson^ATL^Point Guard^77.21^155.80^41.629999999999995
+Jonathan Johnson^ATL^Point Guard^76.15^171.00^42.62
+John Smoltz^ATL^Point Guard^79.33^209.00^49.79
+Mike Hampton^ATL^Point Guard^74.04^185.25^44.47
+Kyle Davies^ATL^Point Guard^78.27^194.75^33.47
+Chuck James^ATL^Point Guard^76.15^161.50^35.31
+Phil Stockman^ATL^Center^84.62^228.00^37.1
+Macay McBride^ATL^Center^75.10^199.50^34.35
+Joey Devine^ATL^Center^75.10^185.25^33.45
+Peter Moylan^ATL^Center^78.27^190.00^38.239999999999995
+Mike Gonzalez^ATL^Center^78.27^194.75^38.769999999999996
+Lance Cormier^ATL^Center^77.21^182.40^36.53
+Blaine Boyer^ATL^Center^79.33^180.50^35.64
+Manny Acosta^ATL^Center^80.38^161.50^35.83
+Bob Wickman^ATL^Center^77.21^228.00^48.06
+Tanyon Sturtze^ATL^Center^81.44^190.00^46.38
+Oscar Villarreal^ATL^Center^76.15^194.75^35.269999999999996
+Rafael Soriano^ATL^Center^77.21^166.25^37.2
+Chad Paronto^ATL^Center^81.44^237.50^41.59
+Tyler Yates^ATL^Center^80.38^209.00^39.56
+Henry Blanco^CHC^Point Guard^75.10^212.80^45.5
+Michael Barrett^CHC^Point Guard^79.33^199.50^40.35
+Geovany Soto^CHC^Point Guard^77.21^185.25^34.11
+Scott Moore^CHC^Center^78.27^171.00^33.29
+Derrek Lee^CHC^Center^81.44^232.75^41.480000000000004
+Ryan Theriot^CHC^Small Forward^75.10^166.25^37.230000000000004
+Ronny Cedeno^CHC^Power Forward^76.15^171.00^34.07
+Aramis Ramirez^CHC^Small Forward^77.21^204.25^38.68
+Cesar Izturis^CHC^Small Forward^72.98^166.25^37.05
+Alfonso Soriano^CHC^Shooting Guard^77.21^171.00^41.15
+Jacque Jones^CHC^Shooting Guard^74.04^185.25^41.85
+Daryle Ward^CHC^Shooting Guard^78.27^218.50^41.68
+Cliff Floyd^CHC^Shooting Guard^80.38^218.50^44.23
+Mark DeRosa^CHC^Shooting Guard^77.21^194.75^42.01
+Matt Murton^CHC^Shooting Guard^77.21^204.25^35.41
+Buck Coats^CHC^Shooting Guard^79.33^185.25^34.730000000000004
+Angel Pagan^CHC^Shooting Guard^77.21^171.00^35.66
+Sean Marshall^CHC^Point Guard^83.56^194.75^34.5
+Carlos Marmol^CHC^Point Guard^78.27^171.00^34.379999999999995
+Ryan O'Malley^CHC^Point Guard^77.21^180.50^36.89
+Juan Mateo^CHC^Point Guard^78.27^171.00^34.2
+Rich Hill^CHC^Point Guard^81.44^180.50^36.97
+Angel Guzman^CHC^Point Guard^79.33^180.50^35.21
+Wade Miller^CHC^Point Guard^78.27^209.00^40.46
+Jason Marquis^CHC^Point Guard^77.21^199.50^38.53
+Carlos Zambrano^CHC^Point Guard^81.44^242.25^35.75
+Ted Lilly^CHC^Point Guard^77.21^180.50^41.15
+Mark Prior^CHC^Point Guard^81.44^218.50^36.480000000000004
+Neal Cotts^CHC^Center^78.27^190.00^36.93
+Will Ohman^CHC^Center^78.27^194.75^39.55
+Scott Eyre^CHC^Center^77.21^199.50^44.75
+Kerry Wood^CHC^Center^81.44^213.75^39.71
+Ryan Dempster^CHC^Center^78.27^204.25^39.83
+Bob Howry^CHC^Center^81.44^209.00^43.57
+Mike Wuertz^CHC^Center^79.33^194.75^38.21
+Roberto Novoa^CHC^Center^81.44^190.00^37.54
+Chris Snyder^ARZ^Point Guard^79.33^209.00^36.05
+Miguel Montero^ARZ^Point Guard^75.10^187.15^33.64
+Conor Jackson^ARZ^Center^78.27^213.75^34.82
+Robby Hammock^ARZ^Center^74.04^177.65^39.8
+Tony Clark^ARZ^Center^83.56^232.75^44.71
+Orlando Hudson^ARZ^Small Forward^76.15^175.75^39.22
+Stephen Drew^ARZ^Power Forward^76.15^175.75^33.96
+Alberto Callaspo^ARZ^Power Forward^74.04^166.25^33.870000000000005
+Chad Tracy^ARZ^Small Forward^78.27^190.00^36.769999999999996
+Chris Young^ARZ^Shooting Guard^78.27^171.00^33.489999999999995
+Scott Hairston^ARZ^Shooting Guard^76.15^178.60^36.769999999999996
+Carlos Quentin^ARZ^Shooting Guard^77.21^213.75^34.510000000000005
+Jeff DaVanon^ARZ^Shooting Guard^76.15^190.00^43.23
+Eric Byrnes^ARZ^Shooting Guard^78.27^199.50^41.04
+Livan Hernandez^ARZ^Point Guard^78.27^232.75^42.02
+Doug Davis^ARZ^Point Guard^80.38^202.35^41.44
+Randy Johnson^ARZ^Point Guard^86.73^219.45^53.47
+Juan Cruz^ARZ^Point Guard^78.27^156.75^38.379999999999995
+Brandon Webb^ARZ^Point Guard^78.27^216.60^37.81
+Enrique Gonzalez^ARZ^Point Guard^74.04^199.50^34.57
+Dana Eveland^ARZ^Point Guard^77.21^237.50^33.34
+Brandon Medders^ARZ^Center^77.21^181.45^37.09
+Tony Pe?a^ARZ^Center^78.27^180.50^35.14
+Doug Slaten^ARZ^Center^81.44^190.00^37.07
+Edgar Gonzalez^ARZ^Center^76.15^204.25^34.019999999999996
+Jose Valverde^ARZ^Center^80.38^241.30^37.6
+Jorge Julio^ARZ^Center^77.21^220.40^37.989999999999995
+Brandon Lyon^ARZ^Center^77.21^171.00^37.56
+Miguel Olivo^FLA^Point Guard^76.15^204.25^38.629999999999995
+Matt Treanor^FLA^Point Guard^78.27^209.00^40.989999999999995
+Mike Jacobs^FLA^Center^78.27^171.00^36.33
+Dan Uggla^FLA^Small Forward^75.10^190.00^36.97
+Robert Andino^FLA^Power Forward^76.15^161.50^32.85
+Hanley Ramirez^FLA^Power Forward^79.33^185.25^33.19
+Miguel Cabrera^FLA^Small Forward^78.27^199.50^33.870000000000005
+Aaron Boone^FLA^Small Forward^78.27^190.00^43.98
+Joe Borchard^FLA^Shooting Guard^81.44^209.00^38.260000000000005
+Alfredo Amezaga^FLA^Shooting Guard^74.04^156.75^39.120000000000005
+Cody Ross^FLA^Shooting Guard^75.10^171.00^36.18
+Josh Willingham^FLA^Shooting Guard^77.21^190.00^38.03
+Jeremy Hermida^FLA^Shooting Guard^80.38^190.00^33.08
+Eric Reed^FLA^Shooting Guard^75.10^161.50^36.239999999999995
+Reggi Abercrombie^FLA^Shooting Guard^79.33^212.80^36.629999999999995
+Ricky Nolasco^FLA^Point Guard^78.27^209.00^34.21
+Anibal Sanchez^FLA^Point Guard^76.15^171.00^33.010000000000005
+Scott Olsen^FLA^Point Guard^80.38^188.10^33.129999999999995
+Josh Johnson^FLA^Point Guard^83.56^228.00^33.08
+Dontrelle Willis^FLA^Point Guard^80.38^227.05^35.129999999999995
+Logan Kensing^FLA^Center^77.21^175.75^34.66
+Sergio Mitre^FLA^Center^80.38^199.50^36.03
+Kevin Gregg^FLA^Center^82.50^209.00^38.7
+Travis Bowyer^FLA^Center^79.33^190.00^35.57
+Renyel Pinto^FLA^Center^80.38^185.25^34.65
+Randy Messenger^FLA^Center^76.15^209.00^35.55
+Yusmeiro Petit^FLA^Center^76.15^218.50^32.269999999999996
+Carlos Martinez^FLA^Center^77.21^161.50^34.760000000000005
+Taylor Tankersley^FLA^Center^77.21^209.00^33.980000000000004
+Henry Owens^FLA^Center^79.33^218.50^37.85
+Jose Garcia^FLA^Center^75.10^156.75^32.14
+Matt Lindstrom^FLA^Center^80.38^194.75^37.05
+Javier Valentin^CIN^Point Guard^74.04^182.40^41.45
+Chad Moeller^CIN^Point Guard^79.33^199.50^42.03
+David Ross^CIN^Point Guard^78.27^194.75^39.95
+Joey Votto^CIN^Center^79.33^190.00^33.47
+Scott Hatteberg^CIN^Center^77.21^199.50^47.21
+Brandon Phillips^CIN^Small Forward^75.10^175.75^35.67
+Juan Castro^CIN^Power Forward^75.10^185.25^44.69
+Alex Gonzalez^CIN^Power Forward^76.15^191.90^40.04
+Mark Bellhorn^CIN^Small Forward^77.21^194.75^42.52
+Edwin Encarnacion^CIN^Small Forward^77.21^185.25^34.15
+Jeff Keppinger^CIN^Small Forward^76.15^171.00^36.86
+Norris Hopper^CIN^Shooting Guard^72.98^190.00^37.94
+Chris Denorfia^CIN^Shooting Guard^77.21^175.75^36.629999999999995
+Adam Dunn^CIN^Shooting Guard^82.50^228.00^37.31
+Bubba Crosby^CIN^Shooting Guard^75.10^175.75^40.55
+Jeff Conine^CIN^Shooting Guard^77.21^209.00^50.68
+Ken Griffey Jr.^CIN^Shooting Guard^79.33^194.75^47.27
+Josh Hamilton^CIN^Shooting Guard^80.38^194.75^35.78
+Ryan Freel^CIN^Shooting Guard^74.04^171.00^40.980000000000004
+Kyle Lohse^CIN^Point Guard^78.27^190.95^38.41
+Bronson Arroyo^CIN^Point Guard^81.44^180.50^40.010000000000005
+Eric Milton^CIN^Point Guard^79.33^197.60^41.57
+Aaron Harang^CIN^Point Guard^83.56^228.00^38.81
+Kirk Saarloos^CIN^Point Guard^76.15^209.00^37.769999999999996
+Elizardo Ramirez^CIN^Point Guard^76.15^171.00^34.09
+Todd Coffey^CIN^Center^81.44^218.50^36.47
+Brian Shackelford^CIN^Center^77.21^185.25^40.5
+Bill Bray^CIN^Center^79.33^204.25^33.739999999999995
+Bobby Livingston^CIN^Center^79.33^180.50^34.489999999999995
+Matt Belisle^CIN^Center^79.33^185.25^36.730000000000004
+Gary Majewski^CIN^Center^77.21^204.25^37.010000000000005
+Mike Stanton^CIN^Center^77.21^204.25^49.75
+Brad Salmon^CIN^Center^80.38^209.00^37.16
+Jared Burton^CIN^Center^81.44^209.00^35.739999999999995
+David Weathers^CIN^Center^79.33^218.50^47.43
+Rheal Cormier^CIN^Center^74.04^185.25^49.85
+Yorvit Torrealba^COL^Point Guard^75.10^180.50^38.620000000000005
+Chris Iannetta^COL^Point Guard^75.10^185.25^33.9
+Alvin Colina^COL^Point Guard^79.33^198.55^35.18
+Todd Helton^COL^Center^78.27^193.80^43.53
+Jamey Carroll^COL^Small Forward^72.98^161.50^43.03
+Kaz Matsui^COL^Small Forward^74.04^175.75^41.35
+Troy Tulowitzki^COL^Power Forward^79.33^194.75^32.39
+Clint Barmes^COL^Power Forward^76.15^166.25^37.989999999999995
+Garrett Atkins^COL^Small Forward^79.33^199.50^37.22
+Ryan Spilborghs^COL^Shooting Guard^77.21^180.50^37.489999999999995
+Cory Sullivan^COL^Shooting Guard^76.15^171.00^37.53
+Jeff Salazar^COL^Shooting Guard^76.15^171.00^36.260000000000005
+Willy Taveras^COL^Shooting Guard^76.15^152.00^35.18
+Matt Holliday^COL^Shooting Guard^80.38^223.25^37.120000000000005
+Brad Hawpe^COL^Shooting Guard^79.33^190.00^37.69
+Jeff Baker^COL^Shooting Guard^78.27^199.50^35.69
+Javy Lopez^COL^Small Forward^79.33^212.80^46.32
+Byung-Hyun Kim^COL^Point Guard^72.98^171.00^38.11
+Rodrigo Lopez^COL^Point Guard^77.21^180.50^41.21
+Brian Lawrence^COL^Point Guard^76.15^187.15^40.8
+Josh Fogg^COL^Point Guard^76.15^192.85^40.21
+Aaron Cook^COL^Point Guard^79.33^194.75^38.06
+Denny Bautista^COL^Point Guard^81.44^161.50^36.519999999999996
+Ubaldo Jimenez^COL^Point Guard^80.38^190.00^33.1
+Jason Hirsh^COL^Point Guard^84.62^237.50^35.019999999999996
+Jeff Francis^COL^Point Guard^81.44^190.00^36.14
+Taylor Buchholz^COL^Point Guard^80.38^209.00^35.379999999999995
+Ryan Speier^COL^Center^83.56^190.00^37.6
+Ramon Ramirez^COL^Center^75.10^180.50^35.5
+Manny Corpas^COL^Center^79.33^161.50^34.239999999999995
+Juan Morillo^COL^Center^77.21^180.50^33.32
+Brian Fuentes^COL^Center^80.38^209.00^41.56
+LaTroy Hawkins^COL^Center^81.44^204.25^44.19
+Tom Martin^COL^Center^77.21^195.70^46.78
+Jeremy Affeldt^COL^Center^80.38^204.25^37.730000000000004
+Paul Lo Duca^NYM^Point Guard^74.04^175.75^44.88
+Ramon Castro^NYM^Point Guard^79.33^223.25^41.0
+Julio Franco^NYM^Center^77.21^178.60^58.52
+Carlos Delgado^NYM^Center^79.33^218.50^44.68
+Jose Valentin^NYM^Small Forward^74.04^185.25^47.38
+Anderson Hernandez^NYM^Small Forward^72.98^159.60^34.33
+Damion Easley^NYM^Power Forward^75.10^180.50^47.3
+Jose Reyes^NYM^Power Forward^76.15^152.00^33.72
+David Wright^NYM^Small Forward^76.15^190.00^34.19
+Ben Johnson^NYM^Shooting Guard^77.21^190.00^35.7
+Endy Chavez^NYM^Shooting Guard^74.04^179.55^39.06
+David Newhan^NYM^Shooting Guard^74.04^171.00^43.48
+Carlos Beltran^NYM^Shooting Guard^77.21^180.50^39.85
+Shawn Green^NYM^Shooting Guard^80.38^190.00^44.3
+Moises Alou^NYM^Shooting Guard^79.33^209.00^50.66
+Lastings Milledge^NYM^Shooting Guard^76.15^177.65^31.9
+Alay Soler^NYM^Point Guard^77.21^228.00^37.39
+Mike Pelfrey^NYM^Point Guard^83.56^180.50^33.129999999999995
+Pedro Martinez^NYM^Point Guard^75.10^171.00^45.35
+Tom Glavine^NYM^Point Guard^76.15^175.75^50.93
+Chan Ho Park^NYM^Point Guard^78.27^199.50^43.67
+Orlando Hernandez^NYM^Point Guard^78.27^209.00^47.39
+Dave Williams^NYM^Point Guard^78.27^208.05^37.97
+Oliver Perez^NYM^Point Guard^76.15^180.50^35.54
+John Maine^NYM^Point Guard^80.38^183.35^35.81
+Marcos Carvajal^NYM^Center^80.38^166.25^32.53
+Ambiorix Burgos^NYM^Center^76.15^171.00^32.86
+Jason Vargas^NYM^Center^76.15^204.25^34.07
+Jon Adkins^NYM^Center^75.10^199.50^39.5
+Juan Padilla^NYM^Center^76.15^190.00^40.03
+Duaner Sanchez^NYM^Center^76.15^180.50^37.379999999999995
+Pedro Feliciano^NYM^Center^74.04^175.75^40.510000000000005
+Aaron Heilman^NYM^Center^81.44^209.00^38.3
+Jorge Sosa^NYM^Center^78.27^161.50^39.84
+Scott Schoeneweis^NYM^Center^76.15^185.25^43.41
+Guillermo Mota^NYM^Center^80.38^194.75^43.6
+Billy Wagner^NYM^Center^75.10^185.25^45.6
+Philip Humber^NYM^Center^80.38^199.50^34.19
+Brad Ausmus^HOU^Point Guard^75.10^180.50^47.88
+Humberto Quintero^HOU^Point Guard^77.21^180.50^37.56
+Hector Gimenez^HOU^Point Guard^74.04^171.00^34.42
+Lance Berkman^HOU^Center^77.21^209.00^41.05
+Mike Lamb^HOU^Center^77.21^180.50^41.56
+Mark Loretta^HOU^Small Forward^76.15^176.70^45.55
+Craig Biggio^HOU^Small Forward^75.10^175.75^51.21
+Brooks Conrad^HOU^Small Forward^75.10^180.50^37.120000000000005
+Chris Burke^HOU^Small Forward^75.10^171.00^36.97
+Eric Bruntlett^HOU^Small Forward^76.15^180.50^38.92
+Adam Everett^HOU^Power Forward^76.15^161.50^40.06
+Morgan Ensberg^HOU^Small Forward^78.27^199.50^41.510000000000005
+Carlos Lee^HOU^Shooting Guard^78.27^228.00^40.69
+Jason Lane^HOU^Shooting Guard^78.27^209.00^40.19
+Orlando Palmeiro^HOU^Shooting Guard^75.10^171.00^48.11
+Luke Scott^HOU^Shooting Guard^76.15^199.50^38.68
+Charlton Jimerson^HOU^Shooting Guard^79.33^199.50^37.44
+Fernando Nieve^HOU^Point Guard^76.15^185.25^34.629999999999995
+Wandy Rodriguez^HOU^Point Guard^75.10^152.00^38.11
+Brandon Backe^HOU^Point Guard^76.15^171.00^38.9
+Matt Albers^HOU^Point Guard^76.15^194.75^34.11
+Woody Williams^HOU^Point Guard^76.15^190.00^50.53
+Roy Oswalt^HOU^Point Guard^76.15^175.75^39.5
+Jason Jennings^HOU^Point Guard^78.27^232.75^38.620000000000005
+Miguel Asencio^HOU^Center^78.27^180.50^36.42
+Brad Lidge^HOU^Center^81.44^199.50^40.18
+Trever Miller^HOU^Center^79.33^190.00^43.75
+David Borkowski^HOU^Center^77.21^190.00^40.06
+Dan Wheeler^HOU^Center^79.33^210.90^39.22
+Paul Estrada^HOU^Center^77.21^204.25^34.47
+Lincoln Holdzkom^HOU^Center^80.38^228.00^34.94
+Chris Sampson^HOU^Center^76.15^161.50^38.769999999999996
+Chad Qualls^HOU^Center^81.44^209.00^38.54
+Ezequiel Astacio^HOU^Center^79.33^148.20^37.32
+Mike Lieberthal^LA^Point Guard^76.15^180.50^45.12
+Russell Martin^LA^Point Guard^75.10^191.90^34.04
+Olmedo Saenz^LA^Center^75.10^209.95^46.39
+James Loney^LA^Center^79.33^190.00^32.81
+Nomar Garciaparra^LA^Center^76.15^180.50^43.6
+Jeff Kent^LA^Small Forward^77.21^199.50^48.98
+Ramon Martinez^LA^Small Forward^77.21^180.50^44.39
+Marlon Anderson^LA^Small Forward^75.10^190.00^43.15
+Rafael Furcal^LA^Power Forward^74.04^156.75^39.35
+Wilson Betemit^LA^Small Forward^79.33^180.50^36.59
+Andy LaRoche^LA^Small Forward^75.10^175.75^33.46
+Matt Kemp^LA^Shooting Guard^80.38^218.50^32.43
+Andre Ethier^LA^Shooting Guard^77.21^197.60^34.89
+Delwyn Young^LA^Shooting Guard^71.92^198.55^34.67
+Jason Repko^LA^Shooting Guard^75.10^166.25^36.17
+Juan Pierre^LA^Shooting Guard^76.15^171.00^39.54
+Luis Gonzalez^LA^Shooting Guard^78.27^190.00^49.49
+Jason Schmidt^LA^Point Guard^81.44^194.75^44.08
+Randy Wolf^LA^Point Guard^76.15^190.00^40.519999999999996
+Brad Penny^LA^Point Guard^80.38^237.50^38.769999999999996
+Derek Lowe^LA^Point Guard^82.50^199.50^43.75
+Mark Hendrickson^LA^Point Guard^85.67^218.50^42.69
+Chad Billingsley^LA^Point Guard^76.15^231.80^32.59
+Takashi Saito^LA^Center^77.21^191.90^47.04
+Jonathan Broxton^LA^Center^80.38^228.00^32.7
+Hong-Chih Kuo^LA^Center^76.15^190.00^35.6
+Eric Stults^LA^Center^76.15^204.25^37.230000000000004
+Chin-Hui Tsao^LA^Center^78.27^168.15^35.739999999999995
+Tim Hamulack^LA^Center^80.38^199.50^40.29
+Yhency Brazoban^LA^Center^77.21^161.50^36.72
+Brett Tomko^LA^Center^80.38^204.25^43.9
+Joe Beimel^LA^Center^79.33^206.15^39.86
+Elmer Dessens^LA^Center^74.04^188.10^46.13
+Ryan Budde^PHI^Point Guard^75.10^190.00^37.54
+Rod Barajas^PHI^Point Guard^78.27^209.00^41.489999999999995
+Carlos Ruiz^PHI^Point Guard^76.15^161.50^38.1
+Chris Coste^PHI^Point Guard^77.21^190.00^44.07
+Ryan Howard^PHI^Center^80.38^218.50^37.28
+Wes Helms^PHI^Center^80.38^219.45^40.8
+Chase Utley^PHI^Small Forward^77.21^173.85^38.2
+Danny Sandoval^PHI^Small Forward^75.10^182.40^37.9
+Jimmy Rollins^PHI^Power Forward^71.92^158.65^38.260000000000005
+Abraham Nu?ez^PHI^Small Forward^75.10^180.50^40.96
+Michael Bourn^PHI^Shooting Guard^75.10^171.00^34.18
+Chris Roberson^PHI^Shooting Guard^78.27^171.00^37.519999999999996
+Jayson Werth^PHI^Shooting Guard^81.44^204.25^37.78
+Shane Victorino^PHI^Shooting Guard^72.98^152.00^36.25
+Aaron Rowand^PHI^Shooting Guard^76.15^194.75^39.5
+Pat Burrell^PHI^Shooting Guard^80.38^211.85^40.39
+Greg Dobbs^PHI^Small Forward^77.21^194.75^38.66
+Cole Hamels^PHI^Point Guard^79.33^166.25^33.18
+Alfredo Simon^PHI^Point Guard^80.38^161.50^35.81
+Scott Mathieson^PHI^Point Guard^79.33^180.50^33.010000000000005
+Freddy Garcia^PHI^Point Guard^80.38^228.00^41.72
+Jamie Moyer^PHI^Point Guard^76.15^166.25^54.28
+Jon Lieber^PHI^Point Guard^78.27^218.50^46.91
+Brett Myers^PHI^Point Guard^80.38^211.85^36.54
+Adam Eaton^PHI^Point Guard^78.27^186.20^39.269999999999996
+Geoff Geary^PHI^Center^76.15^158.65^40.510000000000005
+Clay Condrey^PHI^Center^79.33^185.25^41.28
+Ryan Madson^PHI^Center^82.50^180.50^36.510000000000005
+Antonio Alfonseca^PHI^Center^81.44^237.50^44.87
+Tom Gordon^PHI^Center^74.04^180.50^49.28
+Brian Sanches^PHI^Center^76.15^180.50^38.56
+Jim Ed Warden^PHI^Center^83.56^180.50^37.82
+Anderson Garcia^PHI^Center^78.27^161.50^35.94
+Eude Brito^PHI^Center^75.10^152.00^38.53
+Fabio Castro^PHI^Center^71.92^142.50^32.11
+Matt Smith^PHI^Center^81.44^213.75^37.71
+Damian Miller^MLW^Point Guard^79.33^209.00^47.38
+Johnny Estrada^MLW^Point Guard^75.10^198.55^40.67
+Mike Rivera^MLW^Point Guard^76.15^199.50^40.480000000000004
+J.D. Closser^MLW^Point Guard^74.04^167.20^37.120000000000005
+Prince Fielder^MLW^Center^76.15^247.00^32.81
+Rickie Weeks^MLW^Small Forward^76.15^185.25^34.46
+Tony Graffanino^MLW^Small Forward^77.21^180.50^44.73
+Craig Counsell^MLW^Power Forward^76.15^174.80^46.53
+J.J. Hardy^MLW^Power Forward^78.27^171.00^34.53
+Bill Hall^MLW^Power Forward^76.15^185.25^37.17
+Vinny Rottino^MLW^Small Forward^76.15^185.25^36.9
+Corey Koskie^MLW^Small Forward^79.33^208.05^43.67
+Kevin Mench^MLW^Shooting Guard^76.15^213.75^39.14
+Geoff Jenkins^MLW^Shooting Guard^77.21^201.40^42.61
+Brady Clark^MLW^Shooting Guard^78.27^191.90^43.87
+Tony Gwynn Jr.^MLW^Shooting Guard^76.15^175.75^34.41
+Corey Hart^MLW^Shooting Guard^82.50^190.00^34.94
+Gabe Gross^MLW^Shooting Guard^79.33^198.55^37.36
+Laynce Nix^MLW^Shooting Guard^76.15^190.00^36.33
+Drew Anderson^MLW^Shooting Guard^78.27^185.25^35.72
+Claudio Vargas^MLW^Point Guard^79.33^216.60^38.7
+Chris Capuano^MLW^Point Guard^79.33^199.50^38.53
+Ben Hendrickson^MLW^Point Guard^80.38^180.50^36.07
+Dave Bush^MLW^Point Guard^78.27^201.40^37.31
+Carlos Villanueva^MLW^Point Guard^78.27^180.50^33.260000000000005
+Ben Sheets^MLW^Point Guard^77.21^207.10^38.620000000000005
+Jeff Suppan^MLW^Point Guard^78.27^209.00^42.16
+Brian Shouse^MLW^Center^75.10^180.50^48.43
+Francisco Cordero^MLW^Center^78.27^223.25^41.81
+Derrick Turnbow^MLW^Center^79.33^199.50^39.1
+Matt Wise^MLW^Center^80.38^190.00^41.28
+Grant Balfour^MLW^Center^78.27^178.60^39.17
+Dennis Sarfate^MLW^Center^80.38^199.50^35.89
+Jose Capellan^MLW^Center^80.38^223.25^36.129999999999995
+Greg Aquino^MLW^Center^77.21^178.60^39.129999999999995
+Josh Bard^SD^Point Guard^79.33^204.25^38.92
+Rob Bowen^SD^Point Guard^79.33^205.20^36.010000000000005
+Adrian Gonzalez^SD^Center^78.27^209.00^34.81
+Marcus Giles^SD^Small Forward^71.92^171.00^38.79
+Todd Walker^SD^Small Forward^76.15^175.75^43.77
+Geoff Blum^SD^Power Forward^79.33^190.00^43.85
+Khalil Greene^SD^Power Forward^75.10^199.50^37.36
+Paul McAnulty^SD^Shooting Guard^74.04^209.00^36.010000000000005
+Terrmel Sledge^SD^Shooting Guard^76.15^175.75^39.95
+Jack Cust^SD^Shooting Guard^77.21^219.45^38.120000000000005
+Jose Cruz Jr.^SD^Shooting Guard^76.15^199.50^42.87
+Russell Branyan^SD^Shooting Guard^79.33^185.25^41.2
+Mike Cameron^SD^Shooting Guard^78.27^190.00^44.14
+Brian Giles^SD^Shooting Guard^74.04^194.75^46.11
+Kevin Kouzmanoff^SD^Small Forward^77.21^190.00^35.6
+Mike Thompson^SD^Point Guard^80.38^190.00^36.31
+Clay Hensley^SD^Point Guard^75.10^180.50^37.5
+Chris Young^SD^Point Guard^86.73^237.50^37.769999999999996
+Greg Maddux^SD^Point Guard^76.15^175.75^50.88
+Jake Peavy^SD^Point Guard^77.21^171.00^35.75
+Scott Cassidy^SD^Center^78.27^161.50^41.41
+Scott Strickland^SD^Center^75.10^171.00^40.84
+Scott Linebrink^SD^Center^79.33^197.60^40.57
+Doug Brocail^SD^Center^81.44^223.25^49.79
+Trevor Hoffman^SD^Center^76.15^204.25^49.38
+Heath Bell^SD^Center^78.27^231.80^39.42
+Royce Ring^SD^Center^76.15^209.00^36.19
+Cla Meredith^SD^Center^77.21^175.75^33.739999999999995
+Andrew Brown^SD^Center^82.50^218.50^36.03
+Mike Adams^SD^Center^81.44^180.50^38.59
+Justin Hampson^SD^Center^77.21^190.00^36.769999999999996
+Kevin Cameron^SD^Center^77.21^171.00^37.21
+Ryan Ketchner^SD^Center^77.21^180.50^34.870000000000005
+Brian Schneider^WAS^Point Guard^77.21^186.20^40.260000000000005
+Jesus Flores^WAS^Point Guard^77.21^171.00^32.34
+Larry Broadway^WAS^Center^80.38^218.50^36.2
+Nick Johnson^WAS^Center^79.33^212.80^38.45
+Bernie Castro^WAS^Small Forward^74.04^152.00^37.629999999999995
+Josh Wilson^WAS^Power Forward^77.21^169.10^35.93
+Cristian Guzman^WAS^Power Forward^76.15^194.75^38.94
+Felipe Lopez^WAS^Power Forward^77.21^175.75^36.8
+Ryan Zimmerman^WAS^Small Forward^79.33^199.50^32.42
+Nook Logan^WAS^Shooting Guard^78.27^171.00^37.260000000000005
+Ryan Church^WAS^Shooting Guard^77.21^180.50^38.379999999999995
+Kory Casto^WAS^Shooting Guard^77.21^190.00^35.230000000000004
+Mike Restovich^WAS^Shooting Guard^80.38^244.15^38.16
+Alex Escobar^WAS^Shooting Guard^77.21^180.50^38.480000000000004
+Austin Kearns^WAS^Shooting Guard^79.33^209.00^36.78
+Chris Snelling^WAS^Shooting Guard^74.04^156.75^35.239999999999995
+Billy Traber^WAS^Point Guard^81.44^194.75^37.45
+Tim Redding^WAS^Point Guard^76.15^190.00^39.05
+John Patterson^WAS^Point Guard^81.44^197.60^39.08
+Shawn Hill^WAS^Point Guard^78.27^175.75^35.84
+Joel Hanrahan^WAS^Point Guard^79.33^204.25^35.4
+Mike O'Connor^WAS^Point Guard^79.33^161.50^36.54
+Emiliano Fruto^WAS^Center^79.33^223.25^32.730000000000004
+Chris Schroder^WAS^Center^79.33^199.50^38.53
+Brett Campbell^WAS^Center^76.15^161.50^35.370000000000005
+Beltran Perez^WAS^Center^78.27^171.00^35.35
+Levale Speigner^WAS^Center^75.10^161.50^36.43
+Jason Bergmann^WAS^Center^80.38^180.50^35.43
+Saul Rivera^WAS^Center^75.10^142.50^39.230000000000004
+Chris Booker^WAS^Center^79.33^218.50^40.22
+Micah Bowie^WAS^Center^80.38^192.85^42.3
+Jon Rauch^WAS^Center^87.79^247.00^38.42
+Jerome Williams^WAS^Center^79.33^233.70^35.239999999999995
+Luis Ayala^WAS^Center^78.27^176.70^39.129999999999995
+Ryan Wagner^WAS^Center^80.38^199.50^34.629999999999995
+Chad Cordero^WAS^Center^76.15^188.10^34.95
+Humberto Cota^PIT^Point Guard^76.15^199.50^38.06
+Ronny Paulino^PIT^Point Guard^79.33^204.25^35.86
+Adam LaRoche^PIT^Center^79.33^171.00^37.32
+Ryan Doumit^PIT^Center^76.15^190.00^35.91
+Brad Eldred^PIT^Center^81.44^232.75^36.629999999999995
+Jose Castillo^PIT^Small Forward^77.21^190.00^35.95
+Jack Wilson^PIT^Power Forward^76.15^182.40^39.17
+Freddy Sanchez^PIT^Small Forward^74.04^182.40^39.19
+Jason Bay^PIT^Shooting Guard^78.27^190.00^38.44
+Jose Bautista^PIT^Shooting Guard^76.15^182.40^36.36
+Xavier Nady^PIT^Shooting Guard^78.27^194.75^38.29
+Jody Gerut^PIT^Shooting Guard^76.15^180.50^39.45
+Nate McLouth^PIT^Shooting Guard^75.10^176.70^35.34
+Chris Duffy^PIT^Shooting Guard^74.04^161.50^36.86
+Rajai Davis^PIT^Shooting Guard^75.10^187.15^36.36
+Shane Youman^PIT^Point Guard^80.38^208.05^37.39
+Yoslan Herrera^PIT^Point Guard^78.27^190.00^35.84
+Josh Shortslef^PIT^Point Guard^80.38^209.00^35.08
+Zach Duke^PIT^Point Guard^78.27^196.65^33.870000000000005
+Paul Maholm^PIT^Point Guard^78.27^213.75^34.68
+Tom Gorzelanny^PIT^Point Guard^78.27^196.65^34.64
+Shawn Chacon^PIT^Point Guard^79.33^201.40^39.19
+Tony Armas Jr.^PIT^Point Guard^79.33^213.75^38.84
+Ian Snell^PIT^Point Guard^75.10^161.50^35.33
+Sean Burnett^PIT^Point Guard^75.10^180.50^34.45
+John Grabow^PIT^Center^78.27^199.50^38.32
+Marty McLeary^PIT^Center^81.44^218.50^42.34
+Salomon Torres^PIT^Center^75.10^199.50^44.97
+Damaso Marte^PIT^Center^78.27^190.00^42.04
+Matt Capps^PIT^Center^79.33^226.10^33.489999999999995
+Josh Sharpless^PIT^Center^81.44^222.30^36.09
+Bryan Bullington^PIT^Center^80.38^210.90^36.41
+Jonah Bayliss^PIT^Center^78.27^190.00^36.55
+Brian Rogers^PIT^Center^80.38^180.50^34.620000000000005
+Juan Perez^PIT^Center^76.15^161.50^38.489999999999995
+Bengie Molina^SF^Point Guard^75.10^209.00^42.61
+Eliezer Alfonzo^SF^Point Guard^76.15^211.85^38.06
+Lance Niekro^SF^Center^79.33^199.50^38.08
+Mark Sweeney^SF^Center^77.21^204.25^47.34
+Ray Durham^SF^Small Forward^71.92^186.20^45.25
+Kevin Frandsen^SF^Small Forward^76.15^166.25^34.769999999999996
+Omar Vizquel^SF^Power Forward^72.98^166.25^49.85
+Rich Aurilia^SF^Small Forward^77.21^179.55^45.49
+Pedro Feliz^SF^Small Forward^77.21^194.75^41.84
+Todd Linden^SF^Shooting Guard^79.33^199.50^36.67
+Dave Roberts^SF^Shooting Guard^74.04^171.00^44.75
+Jason Ellison^SF^Shooting Guard^74.04^171.00^38.91
+Randy Winn^SF^Shooting Guard^78.27^187.15^42.73
+Ryan Klesko^SF^Shooting Guard^79.33^209.00^45.72
+Barry Bonds^SF^Shooting Guard^78.27^216.60^52.6
+Fred Lewis^SF^Shooting Guard^78.27^180.50^36.22
+Kelyn Acosta^SF^Point Guard^77.21^193.80^31.85
+Jonathan Sanchez^SF^Point Guard^78.27^156.75^34.28
+Matt Cain^SF^Point Guard^79.33^205.20^32.41
+Matt Morris^SF^Point Guard^81.44^209.00^42.56
+Russ Ortiz^SF^Point Guard^77.21^197.60^42.74
+Noah Lowry^SF^Point Guard^78.27^199.50^36.39
+Barry Zito^SF^Point Guard^80.38^204.25^38.8
+Vinnie Chulk^SF^Center^78.27^185.25^38.2
+Kevin Correia^SF^Center^79.33^190.00^36.519999999999996
+Steve Kline^SF^Center^77.21^204.25^44.52
+Armando Benitez^SF^Center^80.38^217.55^44.32
+Scott Munter^SF^Center^82.50^228.00^36.980000000000004
+Jack Taschner^SF^Center^79.33^196.65^38.86
+Brian Wilson^SF^Center^77.21^194.75^34.96
+Merkin Valdez^SF^Center^81.44^197.60^35.3
+Brad Hennessey^SF^Center^78.27^175.75^37.06
+Billy Sadler^SF^Center^76.15^180.50^35.44
+Pat Misch^SF^Center^78.27^161.50^35.53
+Gary Bennett^STL^Point Guard^76.15^197.60^44.87
+Yadier Molina^STL^Point Guard^75.10^213.75^34.629999999999995
+John Nelson^STL^Center^77.21^180.50^37.989999999999995
+Albert Pujols^STL^Center^79.33^213.75^37.120000000000005
+Adam Kennedy^STL^Small Forward^77.21^175.75^41.14
+Aaron Miles^STL^Small Forward^70.87^171.00^40.21
+David Eckstein^STL^Power Forward^70.87^156.75^42.11
+Scott Rolen^STL^Small Forward^80.38^228.00^41.91
+Scott Spiezio^STL^Small Forward^78.27^209.00^44.44
+Jim Edmonds^STL^Shooting Guard^77.21^201.40^46.68
+So Taguchi^STL^Shooting Guard^74.04^154.85^47.66
+Juan Encarnacion^STL^Shooting Guard^79.33^204.25^40.980000000000004
+Skip Schumaker^STL^Shooting Guard^74.04^166.25^37.07
+John Rodriguez^STL^Shooting Guard^76.15^194.75^39.11
+Chris Duncan^STL^Shooting Guard^81.44^199.50^35.82
+Adam Wainwright^STL^Point Guard^83.56^194.75^35.5
+Mark Mulder^STL^Point Guard^82.50^197.60^39.57
+Anthony Reyes^STL^Point Guard^78.27^204.25^35.370000000000005
+Ryan Franklin^STL^Point Guard^79.33^171.00^43.99
+Kip Wells^STL^Point Guard^79.33^190.00^39.86
+Chris Carpenter^STL^Point Guard^82.50^218.50^41.84
+Russ Springer^STL^Center^80.38^200.45^48.31
+Jason Isringhausen^STL^Center^79.33^218.50^44.48
+Ricardo Rincon^STL^Center^72.98^180.50^46.88
+Braden Looper^STL^Center^79.33^209.00^42.34
+Randy Flores^STL^Center^76.15^171.00^41.58
+Josh Hancock^STL^Center^79.33^194.75^38.89
+Brad Thompson^STL^Center^77.21^180.50^35.08
+Tyler Johnson^STL^Center^78.27^171.00^35.730000000000004
+Chris Narveson^STL^Center^79.33^194.75^35.19
+Randy Keisler^STL^Center^79.33^180.50^41.010000000000005
+Josh Kinney^STL^Center^77.21^185.25^37.92

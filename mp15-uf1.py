@@ -117,37 +117,44 @@ for i, row in enumerate(data):
 POLZADES_A_CMS = 2.54
 LLIURES_A_KGS = 0.45
 
-for i, row in enumerate(data):
-    # Converteix les dades d'alçada i pes a nombres de tipus float
-    alçada_polzades = float(row[3])
-    pes_lliures = float(row[4])
-    
-    # Realitza les conversions
-    alçada_cms = round(alçada_polzades * POLZADES_A_CMS, 2)
-    pes_kgs = round(pes_lliures * LLIURES_A_KGS, 2)
-    
-    # Assigna els nous valors a les columnes d'alçada i pes
-    row[3] = alçada_cms
-    row[4] = pes_kgs
+for row in data[1:]:  
+    if row[3].replace('.', '', 1).isdigit() and row[4].replace('.', '', 1).isdigit():
+        alçada_polzades = float(row[3])
+        pes_lliures = float(row[4])
+
+        # Realiza las conversiones y asigna los nuevos valores a las columnas
+        alçada_cms = round(alçada_polzades * POLZADES_A_CMS, 2)
+        pes_kgs = round(pes_lliures * LLIURES_A_KGS, 2)
+
+        row[3] = alçada_cms
+        row[4] = pes_kgs
+
 
 #1.4
 
-for i, row in enumerate(data):
-    # Convierte los datos de altura y peso a números de tipo float
-    alcada_polzades = row[3]
-    if alcada_polzades != 'Alcada':
-        alcada_polzades = float(alcada_polzades)
-        alcada_cms = round(alcada_polzades * POLZADES_A_CMS, 2)
-    else:
-        alcada_cms = 'Alcada'
-    pes_lliures = float(row[4])
-    edat_anys = float(row[5])
+    # Itera a través de les dades i arrodoneix els valors de l'edat a enters
+for row in data[1:]:  # Ignora la capçalera
+    edat = float(row[5])
     
-    # Realiza las conversiones
-    pes_kgs = round(pes_lliures * LLIURES_A_KGS, 2)
-    edat_anys = round(edat_anys)
+    # Arrodoneix l'edat a un enter
+    edat_arrodonida = round(edat)
     
-    # Asigna los nuevos valores a las columnas de altura, peso y edad
-    row[3] = alcada_cms
-    row[4] = pes_kgs
-    row[5] = edat_anys
+    # Assigna el nou valor d'edat a la columna corresponent
+    row[5] = str(int(edat_arrodonida))
+
+    #1.5
+
+    # Defineix el nom del nou fitxer CSV amb el separador "^"
+new_csv_file = 'basket_players_modified.csv'
+
+#1.5
+
+# Escriu les dades modificades al nou fitxer CSV amb el separador "^"
+with open(new_csv_file, 'w', newline='', encoding='ASCII') as file:
+    csv_writer = csv.writer(file, delimiter='^')  # Canvia el separador a "^"
+    
+    # Escriu l'encapçalament
+    csv_writer.writerow(['Name', 'Team', 'Position', 'Heigth', 'Weigth', 'Age'])
+    
+    # Escriu les dades modificades
+    csv_writer.writerows(modified_data)
