@@ -1,4 +1,5 @@
 import csv
+import json
 
 # Defineix la ruta al fitxer CSV
 csv_file = 'basket_players.csv'
@@ -76,7 +77,7 @@ with open(csv_file_desti, 'w', newline='', encoding='ASCII') as file:
 for i, row in enumerate(data):
     print(f"Row {i + 1}: {row}")
 
-#1.2
+#2
 
 import csv
 
@@ -112,25 +113,27 @@ with open(csv_file_desti, 'w', newline='', encoding='utf-8') as file:
 for i, row in enumerate(data):
     print(f"Row {i + 1}: {row}")
 
+
 #1.3
 
+# Constants per a les conversions
 POLZADES_A_CMS = 2.54
 LLIURES_A_KGS = 0.45
 
-for row in data[1:]:  
-    if row[3].replace('.', '', 1).isdigit() and row[4].replace('.', '', 1).isdigit():
-        alçada_polzades = float(row[3])
-        pes_lliures = float(row[4])
+# Itera a través de les dades i realitza les conversions d'alçada i pes
+for row in data[1:]:  # Ignora la capçalera
+    alcada_polzades = float(row[3])
+    pes_lliures = float(row[4])
+    
+    # Realitza les conversions
+    alcada_cms = round(alcada_polzades * POLZADES_A_CMS, 2)
+    pes_kgs = round(pes_lliures * LLIURES_A_KGS, 2)
+    
+    # Assigna els nous valors a les columnes d'alçada i pes
+    row[3] = alcada_cms
+    row[4] = pes_kgs
 
-        # Realiza las conversiones y asigna los nuevos valores a las columnas
-        alçada_cms = round(alçada_polzades * POLZADES_A_CMS, 2)
-        pes_kgs = round(pes_lliures * LLIURES_A_KGS, 2)
-
-        row[3] = alçada_cms
-        row[4] = pes_kgs
-
-
-#1.4
+    #1.4
 
     # Itera a través de les dades i arrodoneix els valors de l'edat a enters
 for row in data[1:]:  # Ignora la capçalera
@@ -147,8 +150,6 @@ for row in data[1:]:  # Ignora la capçalera
     # Defineix el nom del nou fitxer CSV amb el separador "^"
 new_csv_file = 'basket_players_modified.csv'
 
-#1.5
-
 # Escriu les dades modificades al nou fitxer CSV amb el separador "^"
 with open(new_csv_file, 'w', newline='', encoding='ASCII') as file:
     csv_writer = csv.writer(file, delimiter='^')  # Canvia el separador a "^"
@@ -158,3 +159,91 @@ with open(new_csv_file, 'w', newline='', encoding='ASCII') as file:
     
     # Escriu les dades modificades
     csv_writer.writerows(modified_data)
+
+# 2
+# Estadístiques
+print("Estadístiques:")
+
+# a) Nom del jugador amb el pes més alt
+pes_maxim = 0
+nom_jugador_pes_maxim = ""
+for row in modified_data:
+    pes = float(row[4])
+    if pes > pes_maxim:
+        pes_maxim = pes
+        nom_jugador_pes_maxim = row[0]
+print(f"a) Nom del jugador amb el pes més alt: {nom_jugador_pes_maxim} ({pes_maxim} kg)")
+
+# b) Nom del jugador amb l’alçada més petita
+alcada_minima = float('inf')
+nom_jugador_alcada_minima = ""
+for row in modified_data:
+    alcada = float(row[3])
+    if alcada < alcada_minima:
+        alcada_minima = alcada
+        nom_jugador_alcada_minima = row[0]
+print(f"b) Nom del jugador amb l’alçada més petita: {nom_jugador_alcada_minima} ({alcada_minima} cm)")
+
+# c) Mitjana de pes i alçada de jugador per equip
+mitjana_pes_per_equip = {}
+mitjana_alcada_per_equip = {}
+
+for row in modified_data:
+    equip = row[1]
+    pes = float(row[4])
+    alcada = float(row[3])
+    
+    if equip not in mitjana_pes_per_equip:
+        mitjana_pes_per_equip[equip] = [pes]
+        mitjana_alcada_per_equip[equip] = [alcada]
+    else:
+        mitjana_pes_per_equip[equip].append(pes)
+        mitjana_alcada_per_equip[equip].append(alcada)
+
+for equip, pes in mitjana_pes_per_equip.items():
+    mitjana_pes_per_equip[equip] = round(sum(pes) / len(pes), 2)
+
+for equip, alcada in mitjana_alcada_per_equip.items():
+    mitjana_alcada_per_equip[equip] = round(sum(alcada) / len(alcada), 2)
+
+print("c) Mitjana de pes per equip:")
+for equip, mitjana_pes in mitjana_pes_per_equip.items():
+    print(f"{equip}: {mitjana_pes} kg")
+
+print("Mitjana d'alçada per equip:")
+for equip, mitjana_alcada in mitjana_alcada_per_equip.items():
+    print(f"{equip}: {mitjana_alcada} cm")
+
+# d) Recompte de jugadors per posició
+recompte_posicions = {}
+for row in modified_data:
+    posicio = row[2]
+    if posicio in recompte_posicions:
+        recompte_posicions[posicio] += 1
+    else:
+        recompte_posicions[posicio] = 1
+
+print("d) Recompte de jugadors per posició:")
+for posicio, recompte in recompte_posicions.items():
+    print(f"{posicio}: {recompte} jugadors")
+
+# e) Distribució de jugadors per edat
+distribucio_edat = {}
+for row in modified_data:
+    edat = int(float(row[5]))  # Convertir a float y luego a entero
+    if edat in distribucio_edat:
+        distribucio_edat[edat] += 1
+    else:
+        distribucio_edat[edat] = 1
+
+print("e) Distribució de jugadors per edat:")
+for edat, recompte in distribucio_edat.items():
+    print(f"Edat {edat}: {recompte} jugadors")
+
+#3
+
+json_file = 'basket_players.json'
+with open(json_file, 'w', encoding='utf-8') as file:
+    json.dump(data, file, indent=4, ensure_ascii=False)
+
+print(f"Los datos se han convertido a JSON y se han guardado en '{json_file}'.")
