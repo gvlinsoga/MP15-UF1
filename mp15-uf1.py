@@ -76,7 +76,7 @@ with open(csv_file_desti, 'w', newline='', encoding='ASCII') as file:
 for i, row in enumerate(data):
     print(f"Row {i + 1}: {row}")
 
-#2
+#1.2
 
 import csv
 
@@ -112,7 +112,7 @@ with open(csv_file_desti, 'w', newline='', encoding='utf-8') as file:
 for i, row in enumerate(data):
     print(f"Row {i + 1}: {row}")
 
-#3
+#1.3
 
 POLZADES_A_CMS = 2.54
 LLIURES_A_KGS = 0.45
@@ -129,3 +129,25 @@ for i, row in enumerate(data):
     # Assigna els nous valors a les columnes d'alçada i pes
     row[3] = alçada_cms
     row[4] = pes_kgs
+
+#1.4
+
+for i, row in enumerate(data):
+    # Convierte los datos de altura y peso a números de tipo float
+    alcada_polzades = row[3]
+    if alcada_polzades != 'Alcada':
+        alcada_polzades = float(alcada_polzades)
+        alcada_cms = round(alcada_polzades * POLZADES_A_CMS, 2)
+    else:
+        alcada_cms = 'Alcada'
+    pes_lliures = float(row[4])
+    edat_anys = float(row[5])
+    
+    # Realiza las conversiones
+    pes_kgs = round(pes_lliures * LLIURES_A_KGS, 2)
+    edat_anys = round(edat_anys)
+    
+    # Asigna los nuevos valores a las columnas de altura, peso y edad
+    row[3] = alcada_cms
+    row[4] = pes_kgs
+    row[5] = edat_anys
